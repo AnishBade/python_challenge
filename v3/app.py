@@ -8,7 +8,6 @@ downloaded_site_path = 'downloaded_site'
 website_url = 'https://www.veribom.com'
 url = 'www.veribom.com'  # Replace with your desired URL
 
-
 depth_limit = 3  # Set your desired depth level here
 
 # Function to download the website
