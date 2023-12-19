@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[VERIBOM]]></title><description><![CDATA[VeriBOM]]></description><link>https://www.veribom.com/blog</link><generator>RSS for Node</generator><lastBuildDate>Tue, 19 Dec 2023 10:25:55 GMT</lastBuildDate><atom:link href="https://www.veribom.com/blog-feed.xml" rel="self" type="application/rss+xml"/><item><title><![CDATA[Achieve Software Compliance with VeriBOM]]></title><description><![CDATA[VeriBOM is an easy to use, scalable, and secure tool that can help organizations to achieve software security compliance.]]></description><link>https://www.veribom.com/post/achieve-software-security-compliance-with-veribom</link><guid isPermaLink="false">64fc7a45b2aa5b0beca8a38a</guid><category><![CDATA[VB Publisher]]></category><category><![CDATA[VB Auditor]]></category><pubDate>Sat, 09 Sep 2023 14:25:19 GMT</pubDate><enclosure url="https://static.wixstatic.com/media/3d993a_deff4750553947d289a9fe6d9f8d926f~mv2.jpg/v1/fit/w_1000,h_1000,al_c,q_80/file.png" length="0" type="image/png"/><dc:creator>David Pulaski</dc:creator><content:encoded><![CDATA[<p><strong>Software Security Compliance </strong></p>
+<p>Software security compliance is the process of ensuring that software meets the security requirements of a particular standard, regulation, or customer. These requirements can vary depending on the specific organization or industry, but they typically cover areas such as vulnerability management, secure coding practices, and incident response. </p>
+
+<p><strong>Statistics </strong></p><ul>
+  <li>The average cost of a data breach is $4.24 million. This means that      organizations that experience a data breach can expect to lose a      significant amount of money. Data breaches can also damage an      organization's reputation and make it difficult to attract customers and      partners. </li>
+  <li>60% of data breaches involve a third-party vendor. This means that organizations can be exposed to risk even if they have their own security measures in place. It is important for organizations to carefully vet their      third-party vendors and ensure that they have adequate security measures      in place. </li>
+  <li>85% of organizations have experienced a software security incident in the past two years. This is a concerning statistic, as it shows that software      security is a major issue for organizations of all sizes. Organizations need to take steps to improve their software security in order to protect      themselves from cyberattacks. </li>
+</ul>
+<p><strong>SBOMs </strong></p><ul>
+  <li>Software Bill of Materials (SBOM) is a list of the software components that make up a piece of software. It can be used to track the provenance of software, identify security vulnerabilities, and comply with regulations. </li>
+  <li>SBOMs can be used to achieve software security compliance in several ways. For example, SBOMs can be used to: </li>
+  <li>Identify security vulnerabilities in the software components that make up a piece of software. </li>
+  <li>Track the provenance of software, which can help to identify counterfeit or      malicious software. </li>
+  <li>Comply with regulations that require organizations to track the provenance of software. </li>
+  <li>Improve transparency in the software supply chain. </li>
+</ul>
+<p><strong>Benefits of using SBOMs for software security compliance </strong></p><ul>
+  <li>SBOMs can help organizations to identify and prioritize security risks. </li>
+  <li>SBOMs can help organizations to reduce the costs of security compliance by automating tasks and providing insights into security risks. </li>
+  <li>SBOMs can help organizations to improve the efficiency of security processes by providing a single source of truth for software components. </li>
+  <li>SBOMs can help organizations to improve visibility into their software supply chains, which can help to identify and mitigate security risks. </li>
+  <li>SBOMs can help organizations to build trust with their customers by providing them with transparency into the software supply chain. </li>
+</ul><p>In short, SBOMs are a valuable tool for achieving software security compliance. By using SBOMs, organizations can reduce the risk of cyberattacks, improve customer confidence, and comply with regulations. </p>
+
+<p><strong>How can VeriBOM help you in achieving software security compliance? </strong></p><ul>
+  <li>VeriBOM can help organizations automate the creation and maintenance of SBOMs, which can save time and resources. This is important because SBOMs can be complex and time-consuming to create manually. </li>
+  <li>VeriBOM can help organizations analyze their SBOMs for security vulnerabilities. This can help organizations identify and prioritize security risks and take steps to mitigate those risks. This is important because security vulnerabilities can pose a significant risk to organizations. </li>
+  <li>VeriBOM supports a variety of SBOM formats, including those that are required by specific regulations. This can help organizations demonstrate compliance with regulations that require them to track the provenance of software. This is important because organizations that fail to comply with      regulations can face penalties or sanctions. </li>
+  <li>VeriBOM can help organizations share SBOMs with their customers and partners in an easy scalable way. This can help to improve transparency in the software supply chain and build trust with customers and partners. This is important because transparency can help to identify and mitigate security risks in the software supply chain. </li>
+</ul><p>Overall, VeriBOM is an easy to use, scalable, and secure tool that can help organizations to achieve software security compliance. It is easy to use, scalable, and secure. If you are looking for a way to improve your software security compliance, VeriBOM is a great option. </p>]]></content:encoded></item></channel></rss>
