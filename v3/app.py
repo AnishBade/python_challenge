@@ -5,18 +5,22 @@ from fastapi.responses import FileResponse
 
 app = FastAPI()
 downloaded_site_path = 'downloaded_site'
-website_url = 'https://www.veribom.com'
-url = 'www.veribom.com'  # Replace with your desired URL
+website_url = 'https://www.bbc.com'
+url = 'www.bbc.com'  # Replace with your desired URL
 
-depth_limit = 3  # Set your desired depth level here
+depth_limit = 0  # Set your desired depth level here
 
 # Function to download the website
 def download_website():
     if not os.path.exists(downloaded_site_path):
         os.makedirs(downloaded_site_path)
-        subprocess.run(['wget', '--mirror', '--convert-links', '--adjust-extension', 
+        subprocess.run(['wget', '--mirror', '--convert-links','--adjust-extension', 
                         '--page-requisites', '--no-parent', '--level', str(depth_limit), 
                         website_url, '-P', downloaded_site_path], capture_output=True, text=True)
+        # subprocess.run(['wget', '--mirror', '--convert-links','--adjust-extension', 
+        #                 '--page-requisites', '--no-parent', '-l', '2', 
+        #                 website_url, '-P', downloaded_site_path], capture_output=True, text=True)
+    print("############  download_finished   ########################")
 
 download_website()
 
