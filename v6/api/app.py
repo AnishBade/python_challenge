@@ -1,12 +1,12 @@
 import os
 from urllib.parse import urlparse
-from fastapi import FastAPI, HTTPException
-from fastapi.responses import FileResponse
-from pydantic import BaseModel, HttpUrl
+
 from download import Downloader
-from fastapi.responses import JSONResponse
-from loguru import logger
+from fastapi import FastAPI, HTTPException
+from fastapi.responses import FileResponse, JSONResponse
 from logger import configure_logging
+from loguru import logger
+from pydantic import BaseModel, HttpUrl
 
 app = FastAPI()
 

@@ -1,8 +1,8 @@
-from logger import logger
-import subprocess
 import os
+import subprocess
 from urllib.parse import urlparse
-from logger import configure_logging
+
+from logger import configure_logging, logger
 from utils.logger import PythonLoggerExtension
 
 downloaded_site_path = "downloaded_site"
@@ -21,10 +21,8 @@ class Downloader:
         try:
             if not os.path.exists(downloaded_site_path):
                 os.makedirs(downloaded_site_path)
-            if not os.path.exists(
-                os.path.join(downloaded_site_path, str(self.parsed_url))
-            ):
-                download_log_file_path = 'download.log'
+            if not os.path.exists(os.path.join(downloaded_site_path, str(self.parsed_url))):
+                download_log_file_path = "download.log"
                 if os.path.exists(download_log_file_path):
                     os.remove(download_log_file_path)
                 with open("v6/logs/download.log", "w") as log_file:
