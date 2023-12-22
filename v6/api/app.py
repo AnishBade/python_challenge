@@ -11,7 +11,7 @@ from logger import configure_logging
 app = FastAPI()
 
 downloaded_site_path = "downloaded_site"
-parsed_url = "www.britannica.com"
+parsed_url = "www.veribom.com"
 configure_logging()
 
 
@@ -28,9 +28,9 @@ async def process_url(
         downloader = Downloader(url_input.url, url_input.depth)
 
         await downloader.download_website()
-        logger.success(f"Download Succesfulfor {url_input.url}")
+        logger.success(f"Download Succesfulfor {str(url_input.url)}")
         return JSONResponse(
-            content={"Received url": url_input.url, "depth_level": url_input.depth}
+            content={"Received url": str(url_input.url), "depth_level": url_input.depth}
         )
         # return {"Received URL": url_input.url, "depth_level": url_input.depth}
     except Exception as e:
