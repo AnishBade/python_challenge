@@ -1,0 +1,522 @@
+--2023-12-22 11:38:32--  https://www.veribom.com/
+Resolving www.veribom.com (www.veribom.com)... 34.149.87.45
+Connecting to www.veribom.com (www.veribom.com)|34.149.87.45|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 498439 (487K) [text/html]
+Saving to: ‘downloaded_site/www.veribom.com/index.html’
+
+     0K .......... .......... .......... .......... .......... 10%  360K 1s
+    50K .......... .......... .......... .......... .......... 20% 1.21M 1s
+   100K .......... .......... .......... .......... .......... 30% 1.38M 0s
+   150K .......... .......... .......... .......... .......... 41% 1.89M 0s
+   200K .......... .......... .......... .......... .......... 51%  689K 0s
+   250K .......... .......... .......... .......... .......... 61%  749K 0s
+   300K .......... .......... .......... .......... .......... 71%  611K 0s
+   350K .......... .......... .......... .......... .......... 82% 53.8M 0s
+   400K .......... .......... .......... .......... .......... 92%  796K 0s
+   450K .......... .......... .......... ......               100% 3.23M=0.5s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 11:38:33 (908 KB/s) - ‘downloaded_site/www.veribom.com/index.html’ saved [498439/498439]
+
+Loading robots.txt; please ignore errors.
+--2023-12-22 11:38:33--  https://www.veribom.com/robots.txt
+Reusing existing connection to www.veribom.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 494 [text/plain]
+Saving to: ‘downloaded_site/www.veribom.com/robots.txt’
+
+     0K                                                       100%  118M=0s
+
+2023-12-22 11:38:33 (118 MB/s) - ‘downloaded_site/www.veribom.com/robots.txt’ saved [494/494]
+
+--2023-12-22 11:38:33--  https://www.veribom.com/blog-feed.xml
+Reusing existing connection to www.veribom.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/xml]
+Saving to: ‘downloaded_site/www.veribom.com/blog-feed.xml’
+
+     0K .....                                                  1.19M=0.005s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 11:38:34 (1.19 MB/s) - ‘downloaded_site/www.veribom.com/blog-feed.xml’ saved [6102]
+
+--2023-12-22 11:38:34--  https://www.veribom.com/main
+Reusing existing connection to www.veribom.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 471941 (461K) [text/html]
+Saving to: ‘downloaded_site/www.veribom.com/main.html’
+
+     0K .......... .......... .......... .......... .......... 10%  280K 1s
+    50K .......... .......... .......... .......... .......... 21% 2.20M 1s
+   100K .......... .......... .......... .......... .......... 32%  789K 1s
+   150K .......... .......... .......... .......... .......... 43%  402K 1s
+   200K .......... .......... .......... .......... .......... 54% 2.36M 0s
+   250K .......... .......... .......... .......... .......... 65%  264K 0s
+   300K .......... .......... .......... .......... .......... 75% 2.42M 0s
+   350K .......... .......... .......... .......... .......... 86%  764K 0s
+   400K .......... .......... .......... .......... .......... 97%  749K 0s
+   450K ..........                                            100% 96.2M=0.8s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 11:38:35 (614 KB/s) - ‘downloaded_site/www.veribom.com/main.html’ saved [471941/471941]
+
+--2023-12-22 11:38:35--  https://www.veribom.com/contact
+Reusing existing connection to www.veribom.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 420490 (411K) [text/html]
+Saving to: ‘downloaded_site/www.veribom.com/contact.html’
+
+     0K .......... .......... .......... .......... .......... 12% 1.66M 0s
+    50K .......... .......... .......... .......... .......... 24% 1.21M 0s
+   100K .......... .......... .......... .......... .......... 36%  926K 0s
+   150K .......... .......... .......... .......... .......... 48%  382K 0s
+   200K .......... .......... .......... .......... .......... 60% 1.85M 0s
+   250K .......... .......... .......... .......... .......... 73% 6.21M 0s
+   300K .......... .......... .......... .......... .......... 85%  978K 0s
+   350K .......... .......... .......... .......... .......... 97%  938K 0s
+   400K ..........                                            100%  833K=0.4s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 11:38:36 (1010 KB/s) - ‘downloaded_site/www.veribom.com/contact.html’ saved [420490/420490]
+
+--2023-12-22 11:38:36--  https://www.veribom.com/vbpublisher
+Reusing existing connection to www.veribom.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 594100 (580K) [text/html]
+Saving to: ‘downloaded_site/www.veribom.com/vbpublisher.html’
+
+     0K .......... .......... .......... .......... ..........  8%  613K 1s
+    50K .......... .......... .......... .......... .......... 17%  543K 1s
+   100K .......... .......... .......... .......... .......... 25% 1.63M 1s
+   150K .......... .......... .......... .......... .......... 34%  898K 0s
+   200K .......... .......... .......... .......... .......... 43%  291K 1s
+   250K .......... .......... .......... .......... .......... 51% 2.65M 0s
+   300K .......... .......... .......... .......... .......... 60% 2.48M 0s
+   350K .......... .......... .......... .......... .......... 68%  440K 0s
+   400K .......... .......... .......... .......... .......... 77%  814K 0s
+   450K .......... .......... .......... .......... .......... 86%  642K 0s
+   500K .......... .......... .......... .......... .......... 94%  349K 0s
+   550K .......... .......... ..........                      100% 75.4M=0.9s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 11:38:37 (670 KB/s) - ‘downloaded_site/www.veribom.com/vbpublisher.html’ saved [594100/594100]
+
+--2023-12-22 11:38:37--  https://www.veribom.com/vbauditor
+Reusing existing connection to www.veribom.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 499502 (488K) [text/html]
+Saving to: ‘downloaded_site/www.veribom.com/vbauditor.html’
+
+     0K .......... .......... .......... .......... .......... 10%  364K 1s
+    50K .......... .......... .......... .......... .......... 20%  789K 1s
+   100K .......... .......... .......... .......... .......... 30%  462K 1s
+   150K .......... .......... .......... .......... .......... 41% 1.15M 1s
+   200K .......... .......... .......... .......... .......... 51%  701K 0s
+   250K .......... .......... .......... .......... .......... 61%  642K 0s
+   300K .......... .......... .......... .......... .......... 71%  688K 0s
+   350K .......... .......... .......... .......... .......... 82%  472K 0s
+   400K .......... .......... .......... .......... .......... 92%  493K 0s
+   450K .......... .......... .......... .......              100% 8.46M=0.8s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 11:38:38 (621 KB/s) - ‘downloaded_site/www.veribom.com/vbauditor.html’ saved [499502/499502]
+
+--2023-12-22 11:38:38--  https://www.veribom.com/legal
+Reusing existing connection to www.veribom.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 499105 (487K) [text/html]
+Saving to: ‘downloaded_site/www.veribom.com/legal.html’
+
+     0K .......... .......... .......... .......... .......... 10%  458K 1s
+    50K .......... .......... .......... .......... .......... 20%  873K 1s
+   100K .......... .......... .......... .......... .......... 30%  326K 1s
+   150K .......... .......... .......... .......... .......... 41% 89.7M 0s
+   200K .......... .......... .......... .......... .......... 51%  536K 0s
+   250K .......... .......... .......... .......... .......... 61%  725K 0s
+   300K .......... .......... .......... .......... .......... 71%  695K 0s
+   350K .......... .......... .......... .......... .......... 82%  641K 0s
+   400K .......... .......... .......... .......... .......... 92%  700K 0s
+   450K .......... .......... .......... .......              100%  841K=0.7s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 11:38:38 (651 KB/s) - ‘downloaded_site/www.veribom.com/legal.html’ saved [499105/499105]
+
+--2023-12-22 11:38:39--  https://www.veribom.com/vbpublisher-partners
+Reusing existing connection to www.veribom.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 427176 (417K) [text/html]
+Saving to: ‘downloaded_site/www.veribom.com/vbpublisher-partners.html’
+
+     0K .......... .......... .......... .......... .......... 11%  655K 1s
+    50K .......... .......... .......... .......... .......... 23%  564K 1s
+   100K .......... .......... .......... .......... .......... 35%  431K 1s
+   150K .......... .......... .......... .......... .......... 47%  749K 0s
+   200K .......... .......... .......... .......... .......... 59% 1.10M 0s
+   250K .......... .......... .......... .......... .......... 71%  350K 0s
+   300K .......... .......... .......... .......... .......... 83%  398K 0s
+   350K .......... .......... .......... .......... .......... 95%  778K 0s
+   400K .......... .......                                    100% 57.0M=0.7s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 11:38:39 (575 KB/s) - ‘downloaded_site/www.veribom.com/vbpublisher-partners.html’ saved [427176/427176]
+
+--2023-12-22 11:38:39--  https://www.veribom.com/vbpublisher-about
+Reusing existing connection to www.veribom.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 410794 (401K) [text/html]
+Saving to: ‘downloaded_site/www.veribom.com/vbpublisher-about.html’
+
+     0K .......... .......... .......... .......... .......... 12%  425K 1s
+    50K .......... .......... .......... .......... .......... 24%  369K 1s
+   100K .......... .......... .......... .......... .......... 37% 1.54M 0s
+   150K .......... .......... .......... .......... .......... 49%  634K 0s
+   200K .......... .......... .......... .......... .......... 62%  396K 0s
+   250K .......... .......... .......... .......... .......... 74% 1.50M 0s
+   300K .......... .......... .......... .......... .......... 87%  535K 0s
+   350K .......... .......... .......... .......... .......... 99%  544K 0s
+   400K .                                                     100%  483K=0.7s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 11:38:40 (565 KB/s) - ‘downloaded_site/www.veribom.com/vbpublisher-about.html’ saved [410794/410794]
+
+--2023-12-22 11:38:40--  https://www.veribom.com/vbpublisher-contactus
+Reusing existing connection to www.veribom.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 439804 (429K) [text/html]
+Saving to: ‘downloaded_site/www.veribom.com/vbpublisher-contactus.html’
+
+     0K .......... .......... .......... .......... .......... 11%  319K 1s
+    50K .......... .......... .......... .......... .......... 23%  387K 1s
+   100K .......... .......... .......... .......... .......... 34%  682K 1s
+   150K .......... .......... .......... .......... .......... 46%  359K 1s
+   200K .......... .......... .......... .......... .......... 58%  575K 0s
+   250K .......... .......... .......... .......... .......... 69%  489K 0s
+   300K .......... .......... .......... .......... .......... 81%  287K 0s
+   350K .......... .......... .......... .......... .......... 93%  555K 0s
+   400K .......... .......... .........                       100% 76.4K=1.3s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 11:38:42 (321 KB/s) - ‘downloaded_site/www.veribom.com/vbpublisher-contactus.html’ saved [439804/439804]
+
+--2023-12-22 11:38:42--  https://www.veribom.com/vbpublisher-blog
+Reusing existing connection to www.veribom.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 519098 (507K) [text/html]
+Saving to: ‘downloaded_site/www.veribom.com/vbpublisher-blog.html’
+
+     0K .......... .......... .......... .......... ..........  9%  477K 1s
+    50K .......... .......... .......... .......... .......... 19%  467K 1s
+   100K .......... .......... .......... .......... .......... 29%  393K 1s
+   150K .......... .......... .......... .......... .......... 39%  332K 1s
+   200K .......... .......... .......... .......... .......... 49%  173K 1s
+   250K .......... .......... .......... .......... .......... 59%  262K 1s
+   300K .......... .......... .......... .......... .......... 69%  249K 1s
+   350K .......... .......... .......... .......... .......... 78%  331K 0s
+   400K .......... .......... .......... .......... .......... 88%  526K 0s
+   450K .......... .......... .......... .......... .......... 98%  414K 0s
+   500K ......                                                100%  691K=1.5s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 11:38:43 (328 KB/s) - ‘downloaded_site/www.veribom.com/vbpublisher-blog.html’ saved [519098/519098]
+
+--2023-12-22 11:38:43--  https://www.veribom.com/vbpublisher-us-executive-order
+Reusing existing connection to www.veribom.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 403553 (394K) [text/html]
+Saving to: ‘downloaded_site/www.veribom.com/vbpublisher-us-executive-order.html’
+
+     0K .......... .......... .......... .......... .......... 12%  295K 1s
+    50K .......... .......... .......... .......... .......... 25%  679K 1s
+   100K .......... .......... .......... .......... .......... 38%  381K 1s
+   150K .......... .......... .......... .......... .......... 50%  449K 0s
+   200K .......... .......... .......... .......... .......... 63%  239K 0s
+   250K .......... .......... .......... .......... .......... 76%  335K 0s
+   300K .......... .......... .......... .......... .......... 88%  421K 0s
+   350K .......... .......... .......... .......... ....      100%  454K=1.1s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 11:38:45 (372 KB/s) - ‘downloaded_site/www.veribom.com/vbpublisher-us-executive-order.html’ saved [403553/403553]
+
+--2023-12-22 11:38:45--  https://www.veribom.com/vbpublisher-eusupplychain
+Reusing existing connection to www.veribom.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 404615 (395K) [text/html]
+Saving to: ‘downloaded_site/www.veribom.com/vbpublisher-eusupplychain.html’
+
+     0K .......... .......... .......... .......... .......... 12%  477K 1s
+    50K .......... .......... .......... .......... .......... 25%  628K 1s
+   100K .......... .......... .......... .......... .......... 37%  244K 1s
+   150K .......... .......... .......... .......... .......... 50% 4.20M 0s
+   200K .......... .......... .......... .......... .......... 63%  479K 0s
+   250K .......... .......... .......... .......... .......... 75%  467K 0s
+   300K .......... .......... .......... .......... .......... 88%  455K 0s
+   350K .......... .......... .......... .......... .....     100%  488K=0.8s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 11:38:46 (485 KB/s) - ‘downloaded_site/www.veribom.com/vbpublisher-eusupplychain.html’ saved [404615/404615]
+
+--2023-12-22 11:38:46--  https://www.veribom.com/vbpublisher-fda-mandate
+Reusing existing connection to www.veribom.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 403021 (394K) [text/html]
+Saving to: ‘downloaded_site/www.veribom.com/vbpublisher-fda-mandate.html’
+
+     0K .......... .......... .......... .......... .......... 12%  476K 1s
+    50K .......... .......... .......... .......... .......... 25%  502K 1s
+   100K .......... .......... .......... .......... .......... 38%  642K 0s
+   150K .......... .......... .......... .......... .......... 50%  696K 0s
+   200K .......... .......... .......... .......... .......... 63%  841K 0s
+   250K .......... .......... .......... .......... .......... 76%  977K 0s
+   300K .......... .......... .......... .......... .......... 88% 1.02M 0s
+   350K .......... .......... .......... .......... ...       100% 1.23M=0.5s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 11:38:46 (719 KB/s) - ‘downloaded_site/www.veribom.com/vbpublisher-fda-mandate.html’ saved [403021/403021]
+
+--2023-12-22 11:38:46--  https://www.veribom.com/vbauditor-partners
+Reusing existing connection to www.veribom.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 422987 (413K) [text/html]
+Saving to: ‘downloaded_site/www.veribom.com/vbauditor-partners.html’
+
+     0K .......... .......... .......... .......... .......... 12% 1.17M 0s
+    50K .......... .......... .......... .......... .......... 24% 1.46M 0s
+   100K .......... .......... .......... .......... .......... 36% 1.26M 0s
+   150K .......... .......... .......... .......... .......... 48% 1.24M 0s
+   200K .......... .......... .......... .......... .......... 60% 1.45M 0s
+   250K .......... .......... .......... .......... .......... 72% 1.63M 0s
+   300K .......... .......... .......... .......... .......... 84% 1.13M 0s
+   350K .......... .......... .......... .......... .......... 96% 1.59M 0s
+   400K .......... ...                                        100% 8.91M=0.3s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 11:38:47 (1.38 MB/s) - ‘downloaded_site/www.veribom.com/vbauditor-partners.html’ saved [422987/422987]
+
+--2023-12-22 11:38:47--  https://www.veribom.com/vbauditor-about
+Reusing existing connection to www.veribom.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 404273 (395K) [text/html]
+Saving to: ‘downloaded_site/www.veribom.com/vbauditor-about.html’
+
+     0K .......... .......... .......... .......... .......... 12% 1.19M 0s
+    50K .......... .......... .......... .......... .......... 25% 1.51M 0s
+   100K .......... .......... .......... .......... .......... 37% 1.60M 0s
+   150K .......... .......... .......... .......... .......... 50% 1.56M 0s
+   200K .......... .......... .......... .......... .......... 63% 1.55M 0s
+   250K .......... .......... .......... .......... .......... 75% 1.64M 0s
+   300K .......... .......... .......... .......... .......... 88% 1.56M 0s
+   350K .......... .......... .......... .......... ....      100% 1.63M=0.3s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 11:38:47 (1.51 MB/s) - ‘downloaded_site/www.veribom.com/vbauditor-about.html’ saved [404273/404273]
+
+--2023-12-22 11:38:47--  https://www.veribom.com/vbauditor-contactus
+Reusing existing connection to www.veribom.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 440320 (430K) [text/html]
+Saving to: ‘downloaded_site/www.veribom.com/vbauditor-contactus.html’
+
+     0K .......... .......... .......... .......... .......... 11% 1.01M 0s
+    50K .......... .......... .......... .......... .......... 23% 1.48M 0s
+   100K .......... .......... .......... .......... .......... 34% 1.64M 0s
+   150K .......... .......... .......... .......... .......... 46% 1.56M 0s
+   200K .......... .......... .......... .......... .......... 58% 1.55M 0s
+   250K .......... .......... .......... .......... .......... 69% 1.48M 0s
+   300K .......... .......... .......... .......... .......... 81% 1.64M 0s
+   350K .......... .......... .......... .......... .......... 93% 1.65M 0s
+   400K .......... .......... ..........                      100% 1.69M=0.3s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 11:38:47 (1.48 MB/s) - ‘downloaded_site/www.veribom.com/vbauditor-contactus.html’ saved [440320/440320]
+
+--2023-12-22 11:38:47--  https://www.veribom.com/vbauditor-blog
+Reusing existing connection to www.veribom.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 517730 (506K) [text/html]
+Saving to: ‘downloaded_site/www.veribom.com/vbauditor-blog.html’
+
+     0K .......... .......... .......... .......... ..........  9% 1.21M 0s
+    50K .......... .......... .......... .......... .......... 19% 1.56M 0s
+   100K .......... .......... .......... .......... .......... 29% 1.64M 0s
+   150K .......... .......... .......... .......... .......... 39% 1.56M 0s
+   200K .......... .......... .......... .......... .......... 49% 1.55M 0s
+   250K .......... .......... .......... .......... .......... 59% 1.64M 0s
+   300K .......... .......... .......... .......... .......... 69% 1.55M 0s
+   350K .......... .......... .......... .......... .......... 79% 1.66M 0s
+   400K .......... .......... .......... .......... .......... 89% 1.17M 0s
+   450K .......... .......... .......... .......... .......... 98% 1.87M 0s
+   500K .....                                                 100% 40.8M=0.3s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 11:38:48 (1.53 MB/s) - ‘downloaded_site/www.veribom.com/vbauditor-blog.html’ saved [517730/517730]
+
+--2023-12-22 11:38:48--  https://www.veribom.com/vbauditor-us-executive-order
+Reusing existing connection to www.veribom.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 403412 (394K) [text/html]
+Saving to: ‘downloaded_site/www.veribom.com/vbauditor-us-executive-order.html’
+
+     0K .......... .......... .......... .......... .......... 12% 1.48M 0s
+    50K .......... .......... .......... .......... .......... 25% 1.33M 0s
+   100K .......... .......... .......... .......... .......... 38% 1.47M 0s
+   150K .......... .......... .......... .......... .......... 50% 1.41M 0s
+   200K .......... .......... .......... .......... .......... 63% 1.63M 0s
+   250K .......... .......... .......... .......... .......... 76% 1.57M 0s
+   300K .......... .......... .......... .......... .......... 88% 1.65M 0s
+   350K .......... .......... .......... .......... ...       100% 1.91M=0.3s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 11:38:48 (1.53 MB/s) - ‘downloaded_site/www.veribom.com/vbauditor-us-executive-order.html’ saved [403412/403412]
+
+--2023-12-22 11:38:48--  https://www.veribom.com/vbauditor-eusupplychain
+Reusing existing connection to www.veribom.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 404152 (395K) [text/html]
+Saving to: ‘downloaded_site/www.veribom.com/vbauditor-eusupplychain.html’
+
+     0K .......... .......... .......... .......... .......... 12% 1.12M 0s
+    50K .......... .......... .......... .......... .......... 25% 1.56M 0s
+   100K .......... .......... .......... .......... .......... 38% 1.64M 0s
+   150K .......... .......... .......... .......... .......... 50% 1.56M 0s
+   200K .......... .......... .......... .......... .......... 63% 1.55M 0s
+   250K .......... .......... .......... .......... .......... 76% 1.64M 0s
+   300K .......... .......... .......... .......... .......... 88% 1.56M 0s
+   350K .......... .......... .......... .......... ....      100% 1.67M=0.3s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 11:38:49 (1.51 MB/s) - ‘downloaded_site/www.veribom.com/vbauditor-eusupplychain.html’ saved [404152/404152]
+
+--2023-12-22 11:38:49--  https://www.veribom.com/vbauditor-fda-mandate
+Reusing existing connection to www.veribom.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 402809 (393K) [text/html]
+Saving to: ‘downloaded_site/www.veribom.com/vbauditor-fda-mandate.html’
+
+     0K .......... .......... .......... .......... .......... 12% 1.54M 0s
+    50K .......... .......... .......... .......... .......... 25% 1.17M 0s
+   100K .......... .......... .......... .......... .......... 38% 2.05M 0s
+   150K .......... .......... .......... .......... .......... 50% 1.84M 0s
+   200K .......... .......... .......... .......... .......... 63% 2.06M 0s
+   250K .......... .......... .......... .......... .......... 76% 2.10M 0s
+   300K .......... .......... .......... .......... .......... 88% 2.35M 0s
+   350K .......... .......... .......... .......... ...       100% 2.41M=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 11:38:49 (1.84 MB/s) - ‘downloaded_site/www.veribom.com/vbauditor-fda-mandate.html’ saved [402809/402809]
+
+--2023-12-22 11:38:49--  https://www.veribom.com/post/achieve-software-security-compliance-with-veribom
+Reusing existing connection to www.veribom.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 551315 (538K) [text/html]
+Saving to: ‘downloaded_site/www.veribom.com/post/achieve-software-security-compliance-with-veribom.html’
+
+     0K .......... .......... .......... .......... ..........  9% 1.52M 0s
+    50K .......... .......... .......... .......... .......... 18% 2.48M 0s
+   100K .......... .......... .......... .......... .......... 27% 2.78M 0s
+   150K .......... .......... .......... .......... .......... 37% 2.33M 0s
+   200K .......... .......... .......... .......... .......... 46% 2.97M 0s
+   250K .......... .......... .......... .......... .......... 55% 2.48M 0s
+   300K .......... .......... .......... .......... .......... 65% 2.85M 0s
+   350K .......... .......... .......... .......... .......... 74% 2.91M 0s
+   400K .......... .......... .......... .......... .......... 83% 2.02M 0s
+   450K .......... .......... .......... .......... .......... 92% 3.42M 0s
+   500K .......... .......... .......... ........             100% 4.23M=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 11:38:49 (2.53 MB/s) - ‘downloaded_site/www.veribom.com/post/achieve-software-security-compliance-with-veribom.html’ saved [551315/551315]
+
+--2023-12-22 11:38:49--  https://www.veribom.com/blog
+Reusing existing connection to www.veribom.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘downloaded_site/www.veribom.com/blog.html’
+
+     0K .......... .......... .......... .......... ..........  137K
+    50K .......... .......... .......... .......... ..........  137K
+   100K .......... .......... .......... .......... ..........  289K
+   150K .......... .......... .......... .......... ..........  277K
+   200K .......... .......... .......... .......... ..........  284K
+   250K .......... .......... .......... .......... ..........  278K
+   300K .......... .......... .......... .......... .......... 2.79M
+   350K .......... .......... .......... .......... ..........  286K
+   400K .......... .......... .......... .......... ..........  286K
+   450K .......... .......... .......... .......... .......... 2.78M
+   500K .......... .......... .......... .......... ..........  295K
+   550K .......... .......... ....                             2.85M=2.0s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 11:38:53 (287 KB/s) - ‘downloaded_site/www.veribom.com/blog.html’ saved [588553]
+
+--2023-12-22 11:38:53--  https://www.veribom.com/blog/categories/vb-publisher
+Reusing existing connection to www.veribom.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘downloaded_site/www.veribom.com/blog/categories/vb-publisher.html’
+
+     0K .......... .......... .......... .......... ..........  135K
+    50K .......... .......... .......... .......... ..........  260K
+   100K .......... .......... .......... .......... ..........  138K
+   150K .......... .......... .......... .......... ..........  272K
+   200K .......... .......... .......... .......... ..........  269K
+   250K .......... .......... .......... .......... .......... 2.76M
+   300K .......... .......... .......... .......... ..........  278K
+   350K .......... .......... .......... .......... ..........  279K
+   400K .......... .......... .......... .......... .......... 2.75M
+   450K .......... .......... .......... .......... ..........  288K
+   500K .......... .......... .......... .......... ..........  278K
+   550K .......... .......... .....                            2.91M=2.1s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 11:38:58 (280 KB/s) - ‘downloaded_site/www.veribom.com/blog/categories/vb-publisher.html’ saved [588812]
+
+--2023-12-22 11:38:58--  https://www.veribom.com/blog/categories/vb-auditor
+Reusing existing connection to www.veribom.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘downloaded_site/www.veribom.com/blog/categories/vb-auditor.html’
+
+     0K .......... .......... .......... .......... ..........  163K
+    50K .......... .......... .......... .......... ..........  314K
+   100K .......... .......... .......... .......... ..........  323K
+   150K .......... .......... .......... .......... ..........  325K
+   200K .......... .......... .......... .......... ..........  338K
+   250K .......... .......... .......... .......... ..........  340K
+   300K .......... .......... .......... .......... .......... 2.75M
+   350K .......... .......... .......... .......... ..........  356K
+   400K .......... .......... .......... .......... ..........  352K
+   450K .......... .......... .......... .......... .......... 1.22M
+   500K .......... .......... .......... .......... ..........  441K
+   550K .......... .......... ....                             2.91M=1.5s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 11:39:02 (375 KB/s) - ‘downloaded_site/www.veribom.com/blog/categories/vb-auditor.html’ saved [588511]
+
+FINISHED --2023-12-22 11:39:02--
+Total wall clock time: 29s
+Downloaded: 26 files, 11M in 18s (597 KB/s)
+Converting links in downloaded_site/www.veribom.com/vbauditor-us-executive-order.html... 17-57
+Converting links in downloaded_site/www.veribom.com/blog/categories/vb-auditor.html... 21-57
+Converting links in downloaded_site/www.veribom.com/contact.html... 9-69
+Converting links in downloaded_site/www.veribom.com/blog.html... 21-57
+Converting links in downloaded_site/www.veribom.com/main.html... 7-61
+Converting links in downloaded_site/www.veribom.com/vbpublisher-eusupplychain.html... 17-57
+Converting links in downloaded_site/www.veribom.com/vbpublisher.html... 20-57
+Converting links in downloaded_site/www.veribom.com/vbpublisher-contactus.html... 17-69
+Converting links in downloaded_site/www.veribom.com/vbauditor-fda-mandate.html... 17-57
+Converting links in downloaded_site/www.veribom.com/legal.html... 8-57
+Converting links in downloaded_site/www.veribom.com/vbauditor-blog.html... 18-57
+Converting links in downloaded_site/www.veribom.com/blog/categories/vb-publisher.html... 21-57
+Converting links in downloaded_site/www.veribom.com/vbpublisher-us-executive-order.html... 17-57
+Converting links in downloaded_site/www.veribom.com/vbpublisher-fda-mandate.html... 17-57
+Converting links in downloaded_site/www.veribom.com/vbauditor.html... 20-57
+Converting links in downloaded_site/www.veribom.com/vbauditor-contactus.html... 17-69
+Converting links in downloaded_site/www.veribom.com/vbauditor-about.html... 20-57
+Converting links in downloaded_site/www.veribom.com/vbpublisher-partners.html... 17-57
+Converting links in downloaded_site/www.veribom.com/post/achieve-software-security-compliance-with-veribom.html... 11-57
+Converting links in downloaded_site/www.veribom.com/vbauditor-eusupplychain.html... 17-57
+Converting links in downloaded_site/www.veribom.com/vbauditor-partners.html... 17-57
+Converting links in downloaded_site/www.veribom.com/vbpublisher-blog.html... 18-57
+Converting links in downloaded_site/www.veribom.com/index.html... 8-61
+Converting links in downloaded_site/www.veribom.com/vbpublisher-about.html... 21-57
+Converted links in 24 files in 0.05 seconds.

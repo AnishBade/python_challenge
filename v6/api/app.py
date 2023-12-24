@@ -1,17 +1,17 @@
 import os
 from urllib.parse import urlparse
-from fastapi import FastAPI, HTTPException
-from fastapi.responses import FileResponse
-from pydantic import BaseModel, HttpUrl
+
 from download import Downloader
-from fastapi.responses import JSONResponse
-from loguru import logger
+from fastapi import FastAPI, HTTPException
+from fastapi.responses import FileResponse, JSONResponse
 from logger import configure_logging
+from loguru import logger
+from pydantic import BaseModel, HttpUrl
 
 app = FastAPI()
 
 downloaded_site_path = "downloaded_site"
-parsed_url = "www.britannica.com"
+parsed_url = "www.veribom.com"
 configure_logging()
 
 
@@ -28,9 +28,9 @@ async def process_url(
         downloader = Downloader(url_input.url, url_input.depth)
 
         await downloader.download_website()
-        logger.success(f"Download Succesfulfor {url_input.url}")
+        logger.success(f"Download Succesfulfor {str(url_input.url)}")
         return JSONResponse(
-            content={"Received url": url_input.url, "depth_level": url_input.depth}
+            content={"Received url": str(url_input.url), "depth_level": url_input.depth}
         )
         # return {"Received URL": url_input.url, "depth_level": url_input.depth}
     except Exception as e:
