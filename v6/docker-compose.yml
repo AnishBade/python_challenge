@@ -1,0 +1,26 @@
+version: "3"
+
+services:
+
+  # veribom postgreSQL database
+  python-postgresql:
+    image: postgres:15.3 # latest verified version
+    container_name: python-postgresql
+    restart: always
+    ports:
+      - 5432:5432
+    volumes:
+      - python-postgresql:/var/lib/postgresql/data
+      - ./postgres_init.sql:/docker-entrypoint-initdb.d/postgres_init.sql
+    env_file:
+      - .env
+
+  # veribom frontend app
+  # frontend-customer:
+  #   image: 282904853176.dkr.ecr.us-west-2.amazonaws.com/veribom-customer-frontend:develop
+  #   ports:
+  #     - 8080:80
+
+volumes:
+  #store at /var/lib/docker/volumes/(container_NAME OR container_ID)  Access with root user
+  python-postgresql:

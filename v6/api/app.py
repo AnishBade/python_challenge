@@ -11,7 +11,7 @@ from pydantic import BaseModel, HttpUrl
 app = FastAPI()
 
 downloaded_site_path = "downloaded_site"
-parsed_url = "www.veribom.com"
+parsed_url = "tekvortex.com"
 configure_logging()
 
 

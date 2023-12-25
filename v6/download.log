@@ -1,522 +1,1827 @@
---2023-12-22 11:38:32--  https://www.veribom.com/
-Resolving www.veribom.com (www.veribom.com)... 34.149.87.45
-Connecting to www.veribom.com (www.veribom.com)|34.149.87.45|:443... connected.
+--2023-12-22 16:26:47--  https://tekvortex.com/
+Resolving tekvortex.com (tekvortex.com)... 68.65.122.57
+Connecting to tekvortex.com (tekvortex.com)|68.65.122.57|:443... connected.
 HTTP request sent, awaiting response... 200 OK
-Length: 498439 (487K) [text/html]
-Saving to: ‘downloaded_site/www.veribom.com/index.html’
+Length: unspecified [text/html]
+Saving to: ‘downloaded_site/tekvortex.com/index.html’
 
-     0K .......... .......... .......... .......... .......... 10%  360K 1s
-    50K .......... .......... .......... .......... .......... 20% 1.21M 1s
-   100K .......... .......... .......... .......... .......... 30% 1.38M 0s
-   150K .......... .......... .......... .......... .......... 41% 1.89M 0s
-   200K .......... .......... .......... .......... .......... 51%  689K 0s
-   250K .......... .......... .......... .......... .......... 61%  749K 0s
-   300K .......... .......... .......... .......... .......... 71%  611K 0s
-   350K .......... .......... .......... .......... .......... 82% 53.8M 0s
-   400K .......... .......... .......... .......... .......... 92%  796K 0s
-   450K .......... .......... .......... ......               100% 3.23M=0.5s
+     0K .......... .......... .......... .......... ..........  197K
+    50K ......                                                 50.0M=0.3s
 
 Last-modified header missing -- time-stamps turned off.
-2023-12-22 11:38:33 (908 KB/s) - ‘downloaded_site/www.veribom.com/index.html’ saved [498439/498439]
+2023-12-22 16:26:49 (223 KB/s) - ‘downloaded_site/tekvortex.com/index.html’ saved [57825]
 
 Loading robots.txt; please ignore errors.
---2023-12-22 11:38:33--  https://www.veribom.com/robots.txt
-Reusing existing connection to www.veribom.com:443.
+--2023-12-22 16:26:49--  https://tekvortex.com/robots.txt
+Reusing existing connection to tekvortex.com:443.
 HTTP request sent, awaiting response... 200 OK
-Length: 494 [text/plain]
-Saving to: ‘downloaded_site/www.veribom.com/robots.txt’
+Length: 171 [text/plain]
+Saving to: ‘downloaded_site/tekvortex.com/robots.txt’
 
-     0K                                                       100%  118M=0s
+     0K                                                       100% 23.2M=0s
 
-2023-12-22 11:38:33 (118 MB/s) - ‘downloaded_site/www.veribom.com/robots.txt’ saved [494/494]
+2023-12-22 16:26:50 (23.2 MB/s) - ‘downloaded_site/tekvortex.com/robots.txt’ saved [171/171]
 
---2023-12-22 11:38:33--  https://www.veribom.com/blog-feed.xml
-Reusing existing connection to www.veribom.com:443.
+--2023-12-22 16:26:50--  https://tekvortex.com/wp-content/themes/tekvortex_new/image/fav.png
+Reusing existing connection to tekvortex.com:443.
 HTTP request sent, awaiting response... 200 OK
-Length: unspecified [text/xml]
-Saving to: ‘downloaded_site/www.veribom.com/blog-feed.xml’
+Length: 2161 (2.1K) [image/png]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/image/fav.png’
 
-     0K .....                                                  1.19M=0.005s
+     0K ..                                                    100%  233M=0s
+
+2023-12-22 16:26:50 (233 MB/s) - ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/image/fav.png’ saved [2161/2161]
+
+--2023-12-22 16:26:50--  https://tekvortex.com/feed/
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 6898 (6.7K) [application/rss+xml]
+Saving to: ‘downloaded_site/tekvortex.com/feed/index.html’
+
+     0K ......                                                100%  702M=0s
+
+2023-12-22 16:26:51 (702 MB/s) - ‘downloaded_site/tekvortex.com/feed/index.html’ saved [6898/6898]
+
+--2023-12-22 16:26:51--  https://tekvortex.com/comments/feed/
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 754 [application/rss+xml]
+Saving to: ‘downloaded_site/tekvortex.com/comments/feed/index.html’
+
+     0K                                                       100% 95.2M=0s
+
+2023-12-22 16:26:51 (95.2 MB/s) - ‘downloaded_site/tekvortex.com/comments/feed/index.html’ saved [754/754]
+
+--2023-12-22 16:26:51--  https://tekvortex.com/wp-includes/css/dist/block-library/style.min.css?ver=6.4.2
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 110035 (107K) [text/css]
+Saving to: ‘downloaded_site/tekvortex.com/wp-includes/css/dist/block-library/style.min.css?ver=6.4.2.css’
+
+     0K .......... .......... .......... .......... .......... 46%  195K 0s
+    50K .......... .......... .......... .......... .......... 93%  201K 0s
+   100K .......                                               100% 43.0M=0.5s
+
+2023-12-22 16:26:52 (213 KB/s) - ‘downloaded_site/tekvortex.com/wp-includes/css/dist/block-library/style.min.css?ver=6.4.2.css’ saved [110035/110035]
+
+--2023-12-22 16:26:52--  https://tekvortex.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8.5
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2894 (2.8K) [text/css]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8.5.css’
+
+     0K ..                                                    100%  467M=0s
+
+2023-12-22 16:26:53 (467 MB/s) - ‘downloaded_site/tekvortex.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8.5.css’ saved [2894/2894]
+
+--2023-12-22 16:26:53--  https://tekvortex.com/wp-content/plugins/wp-job-openings/assets/css/general.min.css?ver=3.4.3
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 38599 (38K) [text/css]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/plugins/wp-job-openings/assets/css/general.min.css?ver=3.4.3.css’
+
+     0K .......... .......... .......... .......              100% 23.8M=0.002s
+
+2023-12-22 16:26:53 (23.8 MB/s) - ‘downloaded_site/tekvortex.com/wp-content/plugins/wp-job-openings/assets/css/general.min.css?ver=3.4.3.css’ saved [38599/38599]
+
+--2023-12-22 16:26:53--  https://tekvortex.com/wp-content/plugins/wp-job-openings/assets/css/style.min.css?ver=3.4.3
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 18821 (18K) [text/css]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/plugins/wp-job-openings/assets/css/style.min.css?ver=3.4.3.css’
+
+     0K .......... ........                                   100% 98.0M=0s
+
+2023-12-22 16:26:53 (98.0 MB/s) - ‘downloaded_site/tekvortex.com/wp-content/plugins/wp-job-openings/assets/css/style.min.css?ver=3.4.3.css’ saved [18821/18821]
+
+--2023-12-22 16:26:53--  https://tekvortex.com/wp-content/themes/tekvortex_new/style.css?ver=1.0.0
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 16736 (16K) [text/css]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/style.css?ver=1.0.0.css’
+
+     0K .......... ......                                     100% 92.0M=0s
+
+2023-12-22 16:26:53 (92.0 MB/s) - ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/style.css?ver=1.0.0.css’ saved [16736/16736]
+
+--2023-12-22 16:26:53--  https://tekvortex.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=8.23.1
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 11689 (11K) [application/javascript]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=8.23.1’
+
+     0K .......... .                                          100%  135M=0s
+
+2023-12-22 16:26:54 (135 MB/s) - ‘downloaded_site/tekvortex.com/wp-content/plugins/google-analytics-for-wordpress/assets/js/frontend-gtag.min.js?ver=8.23.1’ saved [11689/11689]
+
+--2023-12-22 16:26:54--  https://tekvortex.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 87553 (86K) [application/javascript]
+Saving to: ‘downloaded_site/tekvortex.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1’
+
+     0K .......... .......... .......... .......... .......... 58% 97.9K 0s
+    50K .......... .......... .......... .....                100% 87.9M=0.5s
+
+2023-12-22 16:26:54 (167 KB/s) - ‘downloaded_site/tekvortex.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1’ saved [87553/87553]
+
+--2023-12-22 16:26:54--  https://tekvortex.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 13577 (13K) [application/javascript]
+Saving to: ‘downloaded_site/tekvortex.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1’
+
+     0K .......... ...                                        100%  121M=0s
+
+2023-12-22 16:26:55 (121 MB/s) - ‘downloaded_site/tekvortex.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1’ saved [13577/13577]
+
+--2023-12-22 16:26:55--  https://tekvortex.com/wp-json/
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Saving to: ‘downloaded_site/tekvortex.com/wp-json/index.html’
+
+     0K .......... .......... .......... .......... ..........  101K
+    50K .......... .......... .......... .......... .......... 1004K
+   100K .......... .......... .......... .......... ..........  108K
+   150K .......... .......... .......... .......... .......... 1.10M
+   200K .......... .......... .......... ..                     161K=1.3s
 
 Last-modified header missing -- time-stamps turned off.
-2023-12-22 11:38:34 (1.19 MB/s) - ‘downloaded_site/www.veribom.com/blog-feed.xml’ saved [6102]
+2023-12-22 16:26:57 (185 KB/s) - ‘downloaded_site/tekvortex.com/wp-json/index.html’ saved [237793]
 
---2023-12-22 11:38:34--  https://www.veribom.com/main
-Reusing existing connection to www.veribom.com:443.
+--2023-12-22 16:26:57--  https://tekvortex.com/xmlrpc.php?rsd
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 403 Forbidden
+2023-12-22 16:26:57 ERROR 403: Forbidden.
+
+--2023-12-22 16:26:57--  https://tekvortex.com/wp-content/themes/tekvortex_new/sass/slick/slick.css
+Reusing existing connection to tekvortex.com:443.
 HTTP request sent, awaiting response... 200 OK
-Length: 471941 (461K) [text/html]
-Saving to: ‘downloaded_site/www.veribom.com/main.html’
+Length: 1776 (1.7K) [text/css]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/sass/slick/slick.css’
 
-     0K .......... .......... .......... .......... .......... 10%  280K 1s
-    50K .......... .......... .......... .......... .......... 21% 2.20M 1s
-   100K .......... .......... .......... .......... .......... 32%  789K 1s
-   150K .......... .......... .......... .......... .......... 43%  402K 1s
-   200K .......... .......... .......... .......... .......... 54% 2.36M 0s
-   250K .......... .......... .......... .......... .......... 65%  264K 0s
-   300K .......... .......... .......... .......... .......... 75% 2.42M 0s
-   350K .......... .......... .......... .......... .......... 86%  764K 0s
-   400K .......... .......... .......... .......... .......... 97%  749K 0s
-   450K ..........                                            100% 96.2M=0.8s
+     0K .                                                     100%  348M=0s
 
-Last-modified header missing -- time-stamps turned off.
-2023-12-22 11:38:35 (614 KB/s) - ‘downloaded_site/www.veribom.com/main.html’ saved [471941/471941]
+2023-12-22 16:26:57 (348 MB/s) - ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/sass/slick/slick.css’ saved [1776/1776]
 
---2023-12-22 11:38:35--  https://www.veribom.com/contact
-Reusing existing connection to www.veribom.com:443.
+--2023-12-22 16:26:57--  https://tekvortex.com/wp-content/themes/tekvortex_new/sass/slick/slick-theme.css
+Reusing existing connection to tekvortex.com:443.
 HTTP request sent, awaiting response... 200 OK
-Length: 420490 (411K) [text/html]
-Saving to: ‘downloaded_site/www.veribom.com/contact.html’
+Length: 3035 (3.0K) [text/css]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/sass/slick/slick-theme.css’
 
-     0K .......... .......... .......... .......... .......... 12% 1.66M 0s
-    50K .......... .......... .......... .......... .......... 24% 1.21M 0s
-   100K .......... .......... .......... .......... .......... 36%  926K 0s
-   150K .......... .......... .......... .......... .......... 48%  382K 0s
-   200K .......... .......... .......... .......... .......... 60% 1.85M 0s
-   250K .......... .......... .......... .......... .......... 73% 6.21M 0s
-   300K .......... .......... .......... .......... .......... 85%  978K 0s
-   350K .......... .......... .......... .......... .......... 97%  938K 0s
-   400K ..........                                            100%  833K=0.4s
+     0K ..                                                    100%  533M=0s
 
-Last-modified header missing -- time-stamps turned off.
-2023-12-22 11:38:36 (1010 KB/s) - ‘downloaded_site/www.veribom.com/contact.html’ saved [420490/420490]
+2023-12-22 16:26:57 (533 MB/s) - ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/sass/slick/slick-theme.css’ saved [3035/3035]
 
---2023-12-22 11:38:36--  https://www.veribom.com/vbpublisher
-Reusing existing connection to www.veribom.com:443.
+--2023-12-22 16:26:57--  https://tekvortex.com/wp-content/themes/tekvortex_new/sass/custom/global.css
+Reusing existing connection to tekvortex.com:443.
 HTTP request sent, awaiting response... 200 OK
-Length: 594100 (580K) [text/html]
-Saving to: ‘downloaded_site/www.veribom.com/vbpublisher.html’
+Length: 23830 (23K) [text/css]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/sass/custom/global.css’
 
-     0K .......... .......... .......... .......... ..........  8%  613K 1s
-    50K .......... .......... .......... .......... .......... 17%  543K 1s
-   100K .......... .......... .......... .......... .......... 25% 1.63M 1s
-   150K .......... .......... .......... .......... .......... 34%  898K 0s
-   200K .......... .......... .......... .......... .......... 43%  291K 1s
-   250K .......... .......... .......... .......... .......... 51% 2.65M 0s
-   300K .......... .......... .......... .......... .......... 60% 2.48M 0s
-   350K .......... .......... .......... .......... .......... 68%  440K 0s
-   400K .......... .......... .......... .......... .......... 77%  814K 0s
-   450K .......... .......... .......... .......... .......... 86%  642K 0s
-   500K .......... .......... .......... .......... .......... 94%  349K 0s
-   550K .......... .......... ..........                      100% 75.4M=0.9s
+     0K .......... .......... ...                             100% 53.3M=0s
 
-Last-modified header missing -- time-stamps turned off.
-2023-12-22 11:38:37 (670 KB/s) - ‘downloaded_site/www.veribom.com/vbpublisher.html’ saved [594100/594100]
+2023-12-22 16:26:58 (53.3 MB/s) - ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/sass/custom/global.css’ saved [23830/23830]
 
---2023-12-22 11:38:37--  https://www.veribom.com/vbauditor
-Reusing existing connection to www.veribom.com:443.
+--2023-12-22 16:26:58--  https://tekvortex.com/wp-content/themes/tekvortex_new/sass/custom/responsive.css
+Reusing existing connection to tekvortex.com:443.
 HTTP request sent, awaiting response... 200 OK
-Length: 499502 (488K) [text/html]
-Saving to: ‘downloaded_site/www.veribom.com/vbauditor.html’
+Length: 4895 (4.8K) [text/css]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/sass/custom/responsive.css’
 
-     0K .......... .......... .......... .......... .......... 10%  364K 1s
-    50K .......... .......... .......... .......... .......... 20%  789K 1s
-   100K .......... .......... .......... .......... .......... 30%  462K 1s
-   150K .......... .......... .......... .......... .......... 41% 1.15M 1s
-   200K .......... .......... .......... .......... .......... 51%  701K 0s
-   250K .......... .......... .......... .......... .......... 61%  642K 0s
-   300K .......... .......... .......... .......... .......... 71%  688K 0s
-   350K .......... .......... .......... .......... .......... 82%  472K 0s
-   400K .......... .......... .......... .......... .......... 92%  493K 0s
-   450K .......... .......... .......... .......              100% 8.46M=0.8s
+     0K ....                                                  100%  831M=0s
 
-Last-modified header missing -- time-stamps turned off.
-2023-12-22 11:38:38 (621 KB/s) - ‘downloaded_site/www.veribom.com/vbauditor.html’ saved [499502/499502]
+2023-12-22 16:26:58 (831 MB/s) - ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/sass/custom/responsive.css’ saved [4895/4895]
 
---2023-12-22 11:38:38--  https://www.veribom.com/legal
-Reusing existing connection to www.veribom.com:443.
+--2023-12-22 16:26:58--  https://tekvortex.com/wp-content/themes/tekvortex_new/js/jquery-3.6.0.min.js
+Reusing existing connection to tekvortex.com:443.
 HTTP request sent, awaiting response... 200 OK
-Length: 499105 (487K) [text/html]
-Saving to: ‘downloaded_site/www.veribom.com/legal.html’
+Length: 89501 (87K) [application/javascript]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/js/jquery-3.6.0.min.js’
 
-     0K .......... .......... .......... .......... .......... 10%  458K 1s
-    50K .......... .......... .......... .......... .......... 20%  873K 1s
-   100K .......... .......... .......... .......... .......... 30%  326K 1s
-   150K .......... .......... .......... .......... .......... 41% 89.7M 0s
-   200K .......... .......... .......... .......... .......... 51%  536K 0s
-   250K .......... .......... .......... .......... .......... 61%  725K 0s
-   300K .......... .......... .......... .......... .......... 71%  695K 0s
-   350K .......... .......... .......... .......... .......... 82%  641K 0s
-   400K .......... .......... .......... .......... .......... 92%  700K 0s
-   450K .......... .......... .......... .......              100%  841K=0.7s
+     0K .......... .......... .......... .......... .......... 57%  199K 0s
+    50K .......... .......... .......... .......              100%  153K=0.5s
 
-Last-modified header missing -- time-stamps turned off.
-2023-12-22 11:38:38 (651 KB/s) - ‘downloaded_site/www.veribom.com/legal.html’ saved [499105/499105]
+2023-12-22 16:26:59 (176 KB/s) - ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/js/jquery-3.6.0.min.js’ saved [89501/89501]
 
---2023-12-22 11:38:39--  https://www.veribom.com/vbpublisher-partners
-Reusing existing connection to www.veribom.com:443.
+--2023-12-22 16:26:59--  https://tekvortex.com/wp-content/themes/tekvortex_new/js/jquery.counterup.js
+Reusing existing connection to tekvortex.com:443.
 HTTP request sent, awaiting response... 200 OK
-Length: 427176 (417K) [text/html]
-Saving to: ‘downloaded_site/www.veribom.com/vbpublisher-partners.html’
+Length: 4001 (3.9K) [application/javascript]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/js/jquery.counterup.js’
 
-     0K .......... .......... .......... .......... .......... 11%  655K 1s
-    50K .......... .......... .......... .......... .......... 23%  564K 1s
-   100K .......... .......... .......... .......... .......... 35%  431K 1s
-   150K .......... .......... .......... .......... .......... 47%  749K 0s
-   200K .......... .......... .......... .......... .......... 59% 1.10M 0s
-   250K .......... .......... .......... .......... .......... 71%  350K 0s
-   300K .......... .......... .......... .......... .......... 83%  398K 0s
-   350K .......... .......... .......... .......... .......... 95%  778K 0s
-   400K .......... .......                                    100% 57.0M=0.7s
+     0K ...                                                   100%  557M=0s
 
-Last-modified header missing -- time-stamps turned off.
-2023-12-22 11:38:39 (575 KB/s) - ‘downloaded_site/www.veribom.com/vbpublisher-partners.html’ saved [427176/427176]
+2023-12-22 16:26:59 (557 MB/s) - ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/js/jquery.counterup.js’ saved [4001/4001]
 
---2023-12-22 11:38:39--  https://www.veribom.com/vbpublisher-about
-Reusing existing connection to www.veribom.com:443.
+--2023-12-22 16:26:59--  https://tekvortex.com/wp-content/themes/tekvortex_new/js/slick.js
+Reusing existing connection to tekvortex.com:443.
 HTTP request sent, awaiting response... 200 OK
-Length: 410794 (401K) [text/html]
-Saving to: ‘downloaded_site/www.veribom.com/vbpublisher-about.html’
+Length: 88955 (87K) [application/javascript]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/js/slick.js’
 
-     0K .......... .......... .......... .......... .......... 12%  425K 1s
-    50K .......... .......... .......... .......... .......... 24%  369K 1s
-   100K .......... .......... .......... .......... .......... 37% 1.54M 0s
-   150K .......... .......... .......... .......... .......... 49%  634K 0s
-   200K .......... .......... .......... .......... .......... 62%  396K 0s
-   250K .......... .......... .......... .......... .......... 74% 1.50M 0s
-   300K .......... .......... .......... .......... .......... 87%  535K 0s
-   350K .......... .......... .......... .......... .......... 99%  544K 0s
-   400K .                                                     100%  483K=0.7s
+     0K .......... .......... .......... .......... .......... 57%  198K 0s
+    50K .......... .......... .......... ......               100% 8.57M=0.3s
 
-Last-modified header missing -- time-stamps turned off.
-2023-12-22 11:38:40 (565 KB/s) - ‘downloaded_site/www.veribom.com/vbpublisher-about.html’ saved [410794/410794]
+2023-12-22 16:26:59 (338 KB/s) - ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/js/slick.js’ saved [88955/88955]
 
---2023-12-22 11:38:40--  https://www.veribom.com/vbpublisher-contactus
-Reusing existing connection to www.veribom.com:443.
+--2023-12-22 16:26:59--  https://tekvortex.com/wp-content/themes/tekvortex_new/js/parallax.min.js
+Reusing existing connection to tekvortex.com:443.
 HTTP request sent, awaiting response... 200 OK
-Length: 439804 (429K) [text/html]
-Saving to: ‘downloaded_site/www.veribom.com/vbpublisher-contactus.html’
+Length: 6864 (6.7K) [application/javascript]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/js/parallax.min.js’
 
-     0K .......... .......... .......... .......... .......... 11%  319K 1s
-    50K .......... .......... .......... .......... .......... 23%  387K 1s
-   100K .......... .......... .......... .......... .......... 34%  682K 1s
-   150K .......... .......... .......... .......... .......... 46%  359K 1s
-   200K .......... .......... .......... .......... .......... 58%  575K 0s
-   250K .......... .......... .......... .......... .......... 69%  489K 0s
-   300K .......... .......... .......... .......... .......... 81%  287K 0s
-   350K .......... .......... .......... .......... .......... 93%  555K 0s
-   400K .......... .......... .........                       100% 76.4K=1.3s
+     0K ......                                                100% 1.22G=0s
 
-Last-modified header missing -- time-stamps turned off.
-2023-12-22 11:38:42 (321 KB/s) - ‘downloaded_site/www.veribom.com/vbpublisher-contactus.html’ saved [439804/439804]
+2023-12-22 16:27:00 (1.22 GB/s) - ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/js/parallax.min.js’ saved [6864/6864]
 
---2023-12-22 11:38:42--  https://www.veribom.com/vbpublisher-blog
-Reusing existing connection to www.veribom.com:443.
+--2023-12-22 16:27:00--  https://tekvortex.com/wp-content/themes/tekvortex_new/js/history.js
+Reusing existing connection to tekvortex.com:443.
 HTTP request sent, awaiting response... 200 OK
-Length: 519098 (507K) [text/html]
-Saving to: ‘downloaded_site/www.veribom.com/vbpublisher-blog.html’
+Length: 0 [application/javascript]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/js/history.js’
 
-     0K .......... .......... .......... .......... ..........  9%  477K 1s
-    50K .......... .......... .......... .......... .......... 19%  467K 1s
-   100K .......... .......... .......... .......... .......... 29%  393K 1s
-   150K .......... .......... .......... .......... .......... 39%  332K 1s
-   200K .......... .......... .......... .......... .......... 49%  173K 1s
-   250K .......... .......... .......... .......... .......... 59%  262K 1s
-   300K .......... .......... .......... .......... .......... 69%  249K 1s
-   350K .......... .......... .......... .......... .......... 78%  331K 0s
-   400K .......... .......... .......... .......... .......... 88%  526K 0s
-   450K .......... .......... .......... .......... .......... 98%  414K 0s
-   500K ......                                                100%  691K=1.5s
+     0K                                                        0.00 =0s
 
-Last-modified header missing -- time-stamps turned off.
-2023-12-22 11:38:43 (328 KB/s) - ‘downloaded_site/www.veribom.com/vbpublisher-blog.html’ saved [519098/519098]
+2023-12-22 16:27:00 (0.00 B/s) - ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/js/history.js’ saved [0/0]
 
---2023-12-22 11:38:43--  https://www.veribom.com/vbpublisher-us-executive-order
-Reusing existing connection to www.veribom.com:443.
+--2023-12-22 16:27:00--  https://tekvortex.com/wp-content/themes/tekvortex_new/js/custom.js
+Reusing existing connection to tekvortex.com:443.
 HTTP request sent, awaiting response... 200 OK
-Length: 403553 (394K) [text/html]
-Saving to: ‘downloaded_site/www.veribom.com/vbpublisher-us-executive-order.html’
+Length: 2914 (2.8K) [application/javascript]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/js/custom.js’
 
-     0K .......... .......... .......... .......... .......... 12%  295K 1s
-    50K .......... .......... .......... .......... .......... 25%  679K 1s
-   100K .......... .......... .......... .......... .......... 38%  381K 1s
-   150K .......... .......... .......... .......... .......... 50%  449K 0s
-   200K .......... .......... .......... .......... .......... 63%  239K 0s
-   250K .......... .......... .......... .......... .......... 76%  335K 0s
-   300K .......... .......... .......... .......... .......... 88%  421K 0s
-   350K .......... .......... .......... .......... ....      100%  454K=1.1s
+     0K ..                                                    100%  523M=0s
 
-Last-modified header missing -- time-stamps turned off.
-2023-12-22 11:38:45 (372 KB/s) - ‘downloaded_site/www.veribom.com/vbpublisher-us-executive-order.html’ saved [403553/403553]
+2023-12-22 16:27:00 (523 MB/s) - ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/js/custom.js’ saved [2914/2914]
 
---2023-12-22 11:38:45--  https://www.veribom.com/vbpublisher-eusupplychain
-Reusing existing connection to www.veribom.com:443.
+--2023-12-22 16:27:00--  https://tekvortex.com/wp-content/uploads/2022/08/logo-85.png
+Reusing existing connection to tekvortex.com:443.
 HTTP request sent, awaiting response... 200 OK
-Length: 404615 (395K) [text/html]
-Saving to: ‘downloaded_site/www.veribom.com/vbpublisher-eusupplychain.html’
+Length: 15174 (15K) [image/png]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/uploads/2022/08/logo-85.png’
 
-     0K .......... .......... .......... .......... .......... 12%  477K 1s
-    50K .......... .......... .......... .......... .......... 25%  628K 1s
-   100K .......... .......... .......... .......... .......... 37%  244K 1s
-   150K .......... .......... .......... .......... .......... 50% 4.20M 0s
-   200K .......... .......... .......... .......... .......... 63%  479K 0s
-   250K .......... .......... .......... .......... .......... 75%  467K 0s
-   300K .......... .......... .......... .......... .......... 88%  455K 0s
-   350K .......... .......... .......... .......... .....     100%  488K=0.8s
+     0K .......... ....                                       100%  136M=0s
 
-Last-modified header missing -- time-stamps turned off.
-2023-12-22 11:38:46 (485 KB/s) - ‘downloaded_site/www.veribom.com/vbpublisher-eusupplychain.html’ saved [404615/404615]
+2023-12-22 16:27:00 (136 MB/s) - ‘downloaded_site/tekvortex.com/wp-content/uploads/2022/08/logo-85.png’ saved [15174/15174]
 
---2023-12-22 11:38:46--  https://www.veribom.com/vbpublisher-fda-mandate
-Reusing existing connection to www.veribom.com:443.
+--2023-12-22 16:27:00--  https://tekvortex.com/wp-content/uploads/2022/08/logo-150-full.png
+Reusing existing connection to tekvortex.com:443.
 HTTP request sent, awaiting response... 200 OK
-Length: 403021 (394K) [text/html]
-Saving to: ‘downloaded_site/www.veribom.com/vbpublisher-fda-mandate.html’
+Length: 9915 (9.7K) [image/png]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/uploads/2022/08/logo-150-full.png’
 
-     0K .......... .......... .......... .......... .......... 12%  476K 1s
-    50K .......... .......... .......... .......... .......... 25%  502K 1s
-   100K .......... .......... .......... .......... .......... 38%  642K 0s
-   150K .......... .......... .......... .......... .......... 50%  696K 0s
-   200K .......... .......... .......... .......... .......... 63%  841K 0s
-   250K .......... .......... .......... .......... .......... 76%  977K 0s
-   300K .......... .......... .......... .......... .......... 88% 1.02M 0s
-   350K .......... .......... .......... .......... ...       100% 1.23M=0.5s
+     0K .........                                             100% 88.3M=0s
 
-Last-modified header missing -- time-stamps turned off.
-2023-12-22 11:38:46 (719 KB/s) - ‘downloaded_site/www.veribom.com/vbpublisher-fda-mandate.html’ saved [403021/403021]
+2023-12-22 16:27:01 (88.3 MB/s) - ‘downloaded_site/tekvortex.com/wp-content/uploads/2022/08/logo-150-full.png’ saved [9915/9915]
 
---2023-12-22 11:38:46--  https://www.veribom.com/vbauditor-partners
-Reusing existing connection to www.veribom.com:443.
-HTTP request sent, awaiting response... 200 OK
-Length: 422987 (413K) [text/html]
-Saving to: ‘downloaded_site/www.veribom.com/vbauditor-partners.html’
-
-     0K .......... .......... .......... .......... .......... 12% 1.17M 0s
-    50K .......... .......... .......... .......... .......... 24% 1.46M 0s
-   100K .......... .......... .......... .......... .......... 36% 1.26M 0s
-   150K .......... .......... .......... .......... .......... 48% 1.24M 0s
-   200K .......... .......... .......... .......... .......... 60% 1.45M 0s
-   250K .......... .......... .......... .......... .......... 72% 1.63M 0s
-   300K .......... .......... .......... .......... .......... 84% 1.13M 0s
-   350K .......... .......... .......... .......... .......... 96% 1.59M 0s
-   400K .......... ...                                        100% 8.91M=0.3s
-
-Last-modified header missing -- time-stamps turned off.
-2023-12-22 11:38:47 (1.38 MB/s) - ‘downloaded_site/www.veribom.com/vbauditor-partners.html’ saved [422987/422987]
-
---2023-12-22 11:38:47--  https://www.veribom.com/vbauditor-about
-Reusing existing connection to www.veribom.com:443.
-HTTP request sent, awaiting response... 200 OK
-Length: 404273 (395K) [text/html]
-Saving to: ‘downloaded_site/www.veribom.com/vbauditor-about.html’
-
-     0K .......... .......... .......... .......... .......... 12% 1.19M 0s
-    50K .......... .......... .......... .......... .......... 25% 1.51M 0s
-   100K .......... .......... .......... .......... .......... 37% 1.60M 0s
-   150K .......... .......... .......... .......... .......... 50% 1.56M 0s
-   200K .......... .......... .......... .......... .......... 63% 1.55M 0s
-   250K .......... .......... .......... .......... .......... 75% 1.64M 0s
-   300K .......... .......... .......... .......... .......... 88% 1.56M 0s
-   350K .......... .......... .......... .......... ....      100% 1.63M=0.3s
-
-Last-modified header missing -- time-stamps turned off.
-2023-12-22 11:38:47 (1.51 MB/s) - ‘downloaded_site/www.veribom.com/vbauditor-about.html’ saved [404273/404273]
-
---2023-12-22 11:38:47--  https://www.veribom.com/vbauditor-contactus
-Reusing existing connection to www.veribom.com:443.
-HTTP request sent, awaiting response... 200 OK
-Length: 440320 (430K) [text/html]
-Saving to: ‘downloaded_site/www.veribom.com/vbauditor-contactus.html’
-
-     0K .......... .......... .......... .......... .......... 11% 1.01M 0s
-    50K .......... .......... .......... .......... .......... 23% 1.48M 0s
-   100K .......... .......... .......... .......... .......... 34% 1.64M 0s
-   150K .......... .......... .......... .......... .......... 46% 1.56M 0s
-   200K .......... .......... .......... .......... .......... 58% 1.55M 0s
-   250K .......... .......... .......... .......... .......... 69% 1.48M 0s
-   300K .......... .......... .......... .......... .......... 81% 1.64M 0s
-   350K .......... .......... .......... .......... .......... 93% 1.65M 0s
-   400K .......... .......... ..........                      100% 1.69M=0.3s
-
-Last-modified header missing -- time-stamps turned off.
-2023-12-22 11:38:47 (1.48 MB/s) - ‘downloaded_site/www.veribom.com/vbauditor-contactus.html’ saved [440320/440320]
-
---2023-12-22 11:38:47--  https://www.veribom.com/vbauditor-blog
-Reusing existing connection to www.veribom.com:443.
-HTTP request sent, awaiting response... 200 OK
-Length: 517730 (506K) [text/html]
-Saving to: ‘downloaded_site/www.veribom.com/vbauditor-blog.html’
-
-     0K .......... .......... .......... .......... ..........  9% 1.21M 0s
-    50K .......... .......... .......... .......... .......... 19% 1.56M 0s
-   100K .......... .......... .......... .......... .......... 29% 1.64M 0s
-   150K .......... .......... .......... .......... .......... 39% 1.56M 0s
-   200K .......... .......... .......... .......... .......... 49% 1.55M 0s
-   250K .......... .......... .......... .......... .......... 59% 1.64M 0s
-   300K .......... .......... .......... .......... .......... 69% 1.55M 0s
-   350K .......... .......... .......... .......... .......... 79% 1.66M 0s
-   400K .......... .......... .......... .......... .......... 89% 1.17M 0s
-   450K .......... .......... .......... .......... .......... 98% 1.87M 0s
-   500K .....                                                 100% 40.8M=0.3s
-
-Last-modified header missing -- time-stamps turned off.
-2023-12-22 11:38:48 (1.53 MB/s) - ‘downloaded_site/www.veribom.com/vbauditor-blog.html’ saved [517730/517730]
-
---2023-12-22 11:38:48--  https://www.veribom.com/vbauditor-us-executive-order
-Reusing existing connection to www.veribom.com:443.
-HTTP request sent, awaiting response... 200 OK
-Length: 403412 (394K) [text/html]
-Saving to: ‘downloaded_site/www.veribom.com/vbauditor-us-executive-order.html’
-
-     0K .......... .......... .......... .......... .......... 12% 1.48M 0s
-    50K .......... .......... .......... .......... .......... 25% 1.33M 0s
-   100K .......... .......... .......... .......... .......... 38% 1.47M 0s
-   150K .......... .......... .......... .......... .......... 50% 1.41M 0s
-   200K .......... .......... .......... .......... .......... 63% 1.63M 0s
-   250K .......... .......... .......... .......... .......... 76% 1.57M 0s
-   300K .......... .......... .......... .......... .......... 88% 1.65M 0s
-   350K .......... .......... .......... .......... ...       100% 1.91M=0.3s
-
-Last-modified header missing -- time-stamps turned off.
-2023-12-22 11:38:48 (1.53 MB/s) - ‘downloaded_site/www.veribom.com/vbauditor-us-executive-order.html’ saved [403412/403412]
-
---2023-12-22 11:38:48--  https://www.veribom.com/vbauditor-eusupplychain
-Reusing existing connection to www.veribom.com:443.
-HTTP request sent, awaiting response... 200 OK
-Length: 404152 (395K) [text/html]
-Saving to: ‘downloaded_site/www.veribom.com/vbauditor-eusupplychain.html’
-
-     0K .......... .......... .......... .......... .......... 12% 1.12M 0s
-    50K .......... .......... .......... .......... .......... 25% 1.56M 0s
-   100K .......... .......... .......... .......... .......... 38% 1.64M 0s
-   150K .......... .......... .......... .......... .......... 50% 1.56M 0s
-   200K .......... .......... .......... .......... .......... 63% 1.55M 0s
-   250K .......... .......... .......... .......... .......... 76% 1.64M 0s
-   300K .......... .......... .......... .......... .......... 88% 1.56M 0s
-   350K .......... .......... .......... .......... ....      100% 1.67M=0.3s
-
-Last-modified header missing -- time-stamps turned off.
-2023-12-22 11:38:49 (1.51 MB/s) - ‘downloaded_site/www.veribom.com/vbauditor-eusupplychain.html’ saved [404152/404152]
-
---2023-12-22 11:38:49--  https://www.veribom.com/vbauditor-fda-mandate
-Reusing existing connection to www.veribom.com:443.
-HTTP request sent, awaiting response... 200 OK
-Length: 402809 (393K) [text/html]
-Saving to: ‘downloaded_site/www.veribom.com/vbauditor-fda-mandate.html’
-
-     0K .......... .......... .......... .......... .......... 12% 1.54M 0s
-    50K .......... .......... .......... .......... .......... 25% 1.17M 0s
-   100K .......... .......... .......... .......... .......... 38% 2.05M 0s
-   150K .......... .......... .......... .......... .......... 50% 1.84M 0s
-   200K .......... .......... .......... .......... .......... 63% 2.06M 0s
-   250K .......... .......... .......... .......... .......... 76% 2.10M 0s
-   300K .......... .......... .......... .......... .......... 88% 2.35M 0s
-   350K .......... .......... .......... .......... ...       100% 2.41M=0.2s
-
-Last-modified header missing -- time-stamps turned off.
-2023-12-22 11:38:49 (1.84 MB/s) - ‘downloaded_site/www.veribom.com/vbauditor-fda-mandate.html’ saved [402809/402809]
-
---2023-12-22 11:38:49--  https://www.veribom.com/post/achieve-software-security-compliance-with-veribom
-Reusing existing connection to www.veribom.com:443.
-HTTP request sent, awaiting response... 200 OK
-Length: 551315 (538K) [text/html]
-Saving to: ‘downloaded_site/www.veribom.com/post/achieve-software-security-compliance-with-veribom.html’
-
-     0K .......... .......... .......... .......... ..........  9% 1.52M 0s
-    50K .......... .......... .......... .......... .......... 18% 2.48M 0s
-   100K .......... .......... .......... .......... .......... 27% 2.78M 0s
-   150K .......... .......... .......... .......... .......... 37% 2.33M 0s
-   200K .......... .......... .......... .......... .......... 46% 2.97M 0s
-   250K .......... .......... .......... .......... .......... 55% 2.48M 0s
-   300K .......... .......... .......... .......... .......... 65% 2.85M 0s
-   350K .......... .......... .......... .......... .......... 74% 2.91M 0s
-   400K .......... .......... .......... .......... .......... 83% 2.02M 0s
-   450K .......... .......... .......... .......... .......... 92% 3.42M 0s
-   500K .......... .......... .......... ........             100% 4.23M=0.2s
-
-Last-modified header missing -- time-stamps turned off.
-2023-12-22 11:38:49 (2.53 MB/s) - ‘downloaded_site/www.veribom.com/post/achieve-software-security-compliance-with-veribom.html’ saved [551315/551315]
-
---2023-12-22 11:38:49--  https://www.veribom.com/blog
-Reusing existing connection to www.veribom.com:443.
+--2023-12-22 16:27:01--  https://tekvortex.com/case-study/cloudchomp-case-study/
+Reusing existing connection to tekvortex.com:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
-Saving to: ‘downloaded_site/www.veribom.com/blog.html’
+Saving to: ‘downloaded_site/tekvortex.com/case-study/cloudchomp-case-study/index.html’
 
-     0K .......... .......... .......... .......... ..........  137K
-    50K .......... .......... .......... .......... ..........  137K
-   100K .......... .......... .......... .......... ..........  289K
-   150K .......... .......... .......... .......... ..........  277K
-   200K .......... .......... .......... .......... ..........  284K
-   250K .......... .......... .......... .......... ..........  278K
-   300K .......... .......... .......... .......... .......... 2.79M
-   350K .......... .......... .......... .......... ..........  286K
-   400K .......... .......... .......... .......... ..........  286K
-   450K .......... .......... .......... .......... .......... 2.78M
-   500K .......... .......... .......... .......... ..........  295K
-   550K .......... .......... ....                             2.85M=2.0s
+     0K .......... .......... .......... .......... ..          171K=0.2s
 
 Last-modified header missing -- time-stamps turned off.
-2023-12-22 11:38:53 (287 KB/s) - ‘downloaded_site/www.veribom.com/blog.html’ saved [588553]
+2023-12-22 16:27:02 (171 KB/s) - ‘downloaded_site/tekvortex.com/case-study/cloudchomp-case-study/index.html’ saved [43828]
 
---2023-12-22 11:38:53--  https://www.veribom.com/blog/categories/vb-publisher
-Reusing existing connection to www.veribom.com:443.
+--2023-12-22 16:27:02--  https://tekvortex.com/case-study/rane/
+Reusing existing connection to tekvortex.com:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
-Saving to: ‘downloaded_site/www.veribom.com/blog/categories/vb-publisher.html’
+Saving to: ‘downloaded_site/tekvortex.com/case-study/rane/index.html’
 
-     0K .......... .......... .......... .......... ..........  135K
-    50K .......... .......... .......... .......... ..........  260K
-   100K .......... .......... .......... .......... ..........  138K
-   150K .......... .......... .......... .......... ..........  272K
-   200K .......... .......... .......... .......... ..........  269K
-   250K .......... .......... .......... .......... .......... 2.76M
-   300K .......... .......... .......... .......... ..........  278K
-   350K .......... .......... .......... .......... ..........  279K
-   400K .......... .......... .......... .......... .......... 2.75M
-   450K .......... .......... .......... .......... ..........  288K
-   500K .......... .......... .......... .......... ..........  278K
-   550K .......... .......... .....                            2.91M=2.1s
+     0K .......... .......... .......... .......... ...        87.2K=0.5s
 
 Last-modified header missing -- time-stamps turned off.
-2023-12-22 11:38:58 (280 KB/s) - ‘downloaded_site/www.veribom.com/blog/categories/vb-publisher.html’ saved [588812]
+2023-12-22 16:27:03 (87.2 KB/s) - ‘downloaded_site/tekvortex.com/case-study/rane/index.html’ saved [44436]
 
---2023-12-22 11:38:58--  https://www.veribom.com/blog/categories/vb-auditor
-Reusing existing connection to www.veribom.com:443.
+--2023-12-22 16:27:03--  https://tekvortex.com/about-us/
+Reusing existing connection to tekvortex.com:443.
 HTTP request sent, awaiting response... 200 OK
 Length: unspecified [text/html]
-Saving to: ‘downloaded_site/www.veribom.com/blog/categories/vb-auditor.html’
+Saving to: ‘downloaded_site/tekvortex.com/about-us/index.html’
 
-     0K .......... .......... .......... .......... ..........  163K
-    50K .......... .......... .......... .......... ..........  314K
-   100K .......... .......... .......... .......... ..........  323K
-   150K .......... .......... .......... .......... ..........  325K
-   200K .......... .......... .......... .......... ..........  338K
-   250K .......... .......... .......... .......... ..........  340K
-   300K .......... .......... .......... .......... .......... 2.75M
-   350K .......... .......... .......... .......... ..........  356K
-   400K .......... .......... .......... .......... ..........  352K
-   450K .......... .......... .......... .......... .......... 1.22M
-   500K .......... .......... .......... .......... ..........  441K
-   550K .......... .......... ....                             2.91M=1.5s
+     0K .......... .......... .......... .......... ..........  200K
+    50K .                                                      2163G=0.3s
 
 Last-modified header missing -- time-stamps turned off.
-2023-12-22 11:39:02 (375 KB/s) - ‘downloaded_site/www.veribom.com/blog/categories/vb-auditor.html’ saved [588511]
+2023-12-22 16:27:04 (204 KB/s) - ‘downloaded_site/tekvortex.com/about-us/index.html’ saved [52361]
 
-FINISHED --2023-12-22 11:39:02--
-Total wall clock time: 29s
-Downloaded: 26 files, 11M in 18s (597 KB/s)
-Converting links in downloaded_site/www.veribom.com/vbauditor-us-executive-order.html... 17-57
-Converting links in downloaded_site/www.veribom.com/blog/categories/vb-auditor.html... 21-57
-Converting links in downloaded_site/www.veribom.com/contact.html... 9-69
-Converting links in downloaded_site/www.veribom.com/blog.html... 21-57
-Converting links in downloaded_site/www.veribom.com/main.html... 7-61
-Converting links in downloaded_site/www.veribom.com/vbpublisher-eusupplychain.html... 17-57
-Converting links in downloaded_site/www.veribom.com/vbpublisher.html... 20-57
-Converting links in downloaded_site/www.veribom.com/vbpublisher-contactus.html... 17-69
-Converting links in downloaded_site/www.veribom.com/vbauditor-fda-mandate.html... 17-57
-Converting links in downloaded_site/www.veribom.com/legal.html... 8-57
-Converting links in downloaded_site/www.veribom.com/vbauditor-blog.html... 18-57
-Converting links in downloaded_site/www.veribom.com/blog/categories/vb-publisher.html... 21-57
-Converting links in downloaded_site/www.veribom.com/vbpublisher-us-executive-order.html... 17-57
-Converting links in downloaded_site/www.veribom.com/vbpublisher-fda-mandate.html... 17-57
-Converting links in downloaded_site/www.veribom.com/vbauditor.html... 20-57
-Converting links in downloaded_site/www.veribom.com/vbauditor-contactus.html... 17-69
-Converting links in downloaded_site/www.veribom.com/vbauditor-about.html... 20-57
-Converting links in downloaded_site/www.veribom.com/vbpublisher-partners.html... 17-57
-Converting links in downloaded_site/www.veribom.com/post/achieve-software-security-compliance-with-veribom.html... 11-57
-Converting links in downloaded_site/www.veribom.com/vbauditor-eusupplychain.html... 17-57
-Converting links in downloaded_site/www.veribom.com/vbauditor-partners.html... 17-57
-Converting links in downloaded_site/www.veribom.com/vbpublisher-blog.html... 18-57
-Converting links in downloaded_site/www.veribom.com/index.html... 8-61
-Converting links in downloaded_site/www.veribom.com/vbpublisher-about.html... 21-57
-Converted links in 24 files in 0.05 seconds.
+--2023-12-22 16:27:04--  https://tekvortex.com/careers/
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘downloaded_site/tekvortex.com/careers/index.html’
+
+     0K .......... .......... .......... .......... .....       183K=0.3s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:27:06 (183 KB/s) - ‘downloaded_site/tekvortex.com/careers/index.html’ saved [46885]
+
+--2023-12-22 16:27:06--  https://tekvortex.com/contact-us/
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘downloaded_site/tekvortex.com/contact-us/index.html’
+
+     0K .......... .......... .......... .......... .           168K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:27:07 (168 KB/s) - ‘downloaded_site/tekvortex.com/contact-us/index.html’ saved [42876]
+
+--2023-12-22 16:27:07--  https://tekvortex.com/wp-content/uploads/2022/09/hero-seven-right-image.png
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 27792 (27K) [image/png]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/uploads/2022/09/hero-seven-right-image.png’
+
+     0K .......... .......... .......                         100%  108K=0.3s
+
+2023-12-22 16:27:08 (108 KB/s) - ‘downloaded_site/tekvortex.com/wp-content/uploads/2022/09/hero-seven-right-image.png’ saved [27792/27792]
+
+--2023-12-22 16:27:08--  https://tekvortex.com/wp-content/themes/tekvortex_new/image/hero-shape1.png
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1097 (1.1K) [image/png]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/image/hero-shape1.png’
+
+     0K .                                                     100%  234M=0s
+
+2023-12-22 16:27:08 (234 MB/s) - ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/image/hero-shape1.png’ saved [1097/1097]
+
+--2023-12-22 16:27:08--  https://tekvortex.com/wp-content/themes/tekvortex_new/image/hero-shape2.png
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1189 (1.2K) [image/png]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/image/hero-shape2.png’
+
+     0K .                                                     100%  219M=0s
+
+2023-12-22 16:27:08 (219 MB/s) - ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/image/hero-shape2.png’ saved [1189/1189]
+
+--2023-12-22 16:27:08--  https://tekvortex.com/contact
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://tekvortex.com/contact-us/ [following]
+--2023-12-22 16:27:09--  https://tekvortex.com/contact-us/
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 42876 (42K) [text/html]
+Saving to: ‘downloaded_site/tekvortex.com/contact.html’
+
+     0K .......... .......... .......... .......... .         100% 84.0K=0.5s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:27:10 (84.0 KB/s) - ‘downloaded_site/tekvortex.com/contact.html’ saved [42876/42876]
+
+--2023-12-22 16:27:10--  https://tekvortex.com/services__trashed/application-development/
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘downloaded_site/tekvortex.com/services__trashed/application-development/index.html’
+
+     0K .......... .......... .......... ..........             164K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:27:11 (164 KB/s) - ‘downloaded_site/tekvortex.com/services__trashed/application-development/index.html’ saved [41675]
+
+--2023-12-22 16:27:11--  https://tekvortex.com/wp-content/uploads/2022/09/webapp.png
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 158334 (155K) [image/png]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/uploads/2022/09/webapp.png’
+
+     0K .......... .......... .......... .......... .......... 32%  200K 1s
+    50K .......... .......... .......... .......... .......... 64%  199K 0s
+   100K .......... .......... .......... .......... .......... 97%  200K 0s
+   150K ....                                                  100% 25.6M=0.8s
+
+2023-12-22 16:27:12 (205 KB/s) - ‘downloaded_site/tekvortex.com/wp-content/uploads/2022/09/webapp.png’ saved [158334/158334]
+
+--2023-12-22 16:27:12--  https://tekvortex.com/wp-content/uploads/2022/09/webapp-293x300.png
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 80854 (79K) [image/png]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/uploads/2022/09/webapp-293x300.png’
+
+     0K .......... .......... .......... .......... .......... 63%  200K 0s
+    50K .......... .......... ........                        100% 21.3M=0.3s
+
+2023-12-22 16:27:12 (314 KB/s) - ‘downloaded_site/tekvortex.com/wp-content/uploads/2022/09/webapp-293x300.png’ saved [80854/80854]
+
+--2023-12-22 16:27:12--  https://tekvortex.com/services__trashed/consultation-services/
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘downloaded_site/tekvortex.com/services__trashed/consultation-services/index.html’
+
+     0K .......... .......... .......... ..........             163K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:27:13 (163 KB/s) - ‘downloaded_site/tekvortex.com/services__trashed/consultation-services/index.html’ saved [41469]
+
+--2023-12-22 16:27:13--  https://tekvortex.com/wp-content/uploads/2022/08/about-seven.png
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 31673 (31K) [image/png]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/uploads/2022/08/about-seven.png’
+
+     0K .......... .......... ..........                      100% 24.1M=0.001s
+
+2023-12-22 16:27:13 (24.1 MB/s) - ‘downloaded_site/tekvortex.com/wp-content/uploads/2022/08/about-seven.png’ saved [31673/31673]
+
+--2023-12-22 16:27:13--  https://tekvortex.com/wp-content/uploads/2022/08/about-seven-300x279.png
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 47333 (46K) [image/png]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/uploads/2022/08/about-seven-300x279.png’
+
+     0K .......... .......... .......... .......... ......    100%  185K=0.2s
+
+2023-12-22 16:27:14 (185 KB/s) - ‘downloaded_site/tekvortex.com/wp-content/uploads/2022/08/about-seven-300x279.png’ saved [47333/47333]
+
+--2023-12-22 16:27:14--  https://tekvortex.com/services__trashed/mobile-application/
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘downloaded_site/tekvortex.com/services__trashed/mobile-application/index.html’
+
+     0K .......... .......... .......... ..........             162K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:27:15 (162 KB/s) - ‘downloaded_site/tekvortex.com/services__trashed/mobile-application/index.html’ saved [41308]
+
+--2023-12-22 16:27:15--  https://tekvortex.com/wp-content/uploads/2022/09/mobiledev.png
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 141809 (138K) [image/png]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/uploads/2022/09/mobiledev.png’
+
+     0K .......... .......... .......... .......... .......... 36%  200K 0s
+    50K .......... .......... .......... .......... .......... 72%  200K 0s
+   100K .......... .......... .......... ........             100%  156K=0.7s
+
+2023-12-22 16:27:16 (186 KB/s) - ‘downloaded_site/tekvortex.com/wp-content/uploads/2022/09/mobiledev.png’ saved [141809/141809]
+
+--2023-12-22 16:27:16--  https://tekvortex.com/wp-content/uploads/2022/09/mobiledev-300x247.png
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 59554 (58K) [image/png]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/uploads/2022/09/mobiledev-300x247.png’
+
+     0K .......... .......... .......... .......... .......... 85%  200K 0s
+    50K ........                                              100% 49.5M=0.3s
+
+2023-12-22 16:27:16 (232 KB/s) - ‘downloaded_site/tekvortex.com/wp-content/uploads/2022/09/mobiledev-300x247.png’ saved [59554/59554]
+
+--2023-12-22 16:27:16--  https://tekvortex.com/services__trashed/quality-assurance/
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘downloaded_site/tekvortex.com/services__trashed/quality-assurance/index.html’
+
+     0K .......... .......... .......... ..........             162K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:27:17 (162 KB/s) - ‘downloaded_site/tekvortex.com/services__trashed/quality-assurance/index.html’ saved [41353]
+
+--2023-12-22 16:27:17--  https://tekvortex.com/wp-content/uploads/2022/09/hero-seven-right-image-300x224.png
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 34516 (34K) [image/png]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/uploads/2022/09/hero-seven-right-image-300x224.png’
+
+     0K .......... .......... .......... ...                  100%  136K=0.2s
+
+2023-12-22 16:27:18 (136 KB/s) - ‘downloaded_site/tekvortex.com/wp-content/uploads/2022/09/hero-seven-right-image-300x224.png’ saved [34516/34516]
+
+--2023-12-22 16:27:18--  https://tekvortex.com/wp-content/uploads/2022/09/hero-seven-right-image-768x574.png
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 137727 (134K) [image/png]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/uploads/2022/09/hero-seven-right-image-768x574.png’
+
+     0K .......... .......... .......... .......... .......... 37%  199K 0s
+    50K .......... .......... .......... .......... .......... 74%  201K 0s
+   100K .......... .......... .......... ....                 100%  140K=0.7s
+
+2023-12-22 16:27:19 (180 KB/s) - ‘downloaded_site/tekvortex.com/wp-content/uploads/2022/09/hero-seven-right-image-768x574.png’ saved [137727/137727]
+
+--2023-12-22 16:27:19--  https://tekvortex.com/services__trashed/it-infrastructure-services/
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘downloaded_site/tekvortex.com/services__trashed/it-infrastructure-services/index.html’
+
+     0K .......... .......... .......... ..........             163K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:27:20 (163 KB/s) - ‘downloaded_site/tekvortex.com/services__trashed/it-infrastructure-services/index.html’ saved [41359]
+
+--2023-12-22 16:27:20--  https://tekvortex.com/wp-content/uploads/2022/09/IT-Infrastructure.png
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 106030 (104K) [image/png]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/uploads/2022/09/IT-Infrastructure.png’
+
+     0K .......... .......... .......... .......... .......... 48%  199K 0s
+    50K .......... .......... .......... .......... .......... 96%  200K 0s
+   100K ...                                                   100% 6761G=0.5s
+
+2023-12-22 16:27:21 (207 KB/s) - ‘downloaded_site/tekvortex.com/wp-content/uploads/2022/09/IT-Infrastructure.png’ saved [106030/106030]
+
+--2023-12-22 16:27:21--  https://tekvortex.com/wp-content/uploads/2022/09/IT-Infrastructure-282x300.png
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 65958 (64K) [image/png]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/uploads/2022/09/IT-Infrastructure-282x300.png’
+
+     0K .......... .......... .......... .......... .......... 77%  100K 0s
+    50K .......... ....                                       100% 78.4M=0.5s
+
+2023-12-22 16:27:21 (129 KB/s) - ‘downloaded_site/tekvortex.com/wp-content/uploads/2022/09/IT-Infrastructure-282x300.png’ saved [65958/65958]
+
+--2023-12-22 16:27:21--  https://tekvortex.com/wp-content/uploads/2022/09/IT-Infrastructure-964x1024.png
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 300672 (294K) [image/png]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/uploads/2022/09/IT-Infrastructure-964x1024.png’
+
+     0K .......... .......... .......... .......... .......... 17%  198K 1s
+    50K .......... .......... .......... .......... .......... 34% 66.7K 2s
+   100K .......... .......... .......... .......... .......... 51%  199K 1s
+   150K .......... .......... .......... .......... .......... 68% 98.5K 1s
+   200K .......... .......... .......... .......... .......... 85%  102K 0s
+   250K .......... .......... .......... .......... ...       100%  167K=2.5s
+
+2023-12-22 16:27:24 (117 KB/s) - ‘downloaded_site/tekvortex.com/wp-content/uploads/2022/09/IT-Infrastructure-964x1024.png’ saved [300672/300672]
+
+--2023-12-22 16:27:24--  https://tekvortex.com/wp-content/uploads/2022/09/IT-Infrastructure-768x816.png
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 232798 (227K) [image/png]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/uploads/2022/09/IT-Infrastructure-768x816.png’
+
+     0K .......... .......... .......... .......... .......... 21%  100K 2s
+    50K .......... .......... .......... .......... .......... 43%  200K 1s
+   100K .......... .......... .......... .......... .......... 65%  199K 1s
+   150K .......... .......... .......... .......... .......... 87%  101K 0s
+   200K .......... .......... .......                         100% 16.1M=1.5s
+
+2023-12-22 16:27:26 (152 KB/s) - ‘downloaded_site/tekvortex.com/wp-content/uploads/2022/09/IT-Infrastructure-768x816.png’ saved [232798/232798]
+
+--2023-12-22 16:27:26--  https://tekvortex.com/wp-content/uploads/2022/09/IT-Infrastructure-1446x1536.png
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 469005 (458K) [image/png]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/uploads/2022/09/IT-Infrastructure-1446x1536.png’
+
+     0K .......... .......... .......... .......... .......... 10%  199K 2s
+    50K .......... .......... .......... .......... .......... 21%  201K 2s
+   100K .......... .......... .......... .......... .......... 32%  201K 2s
+   150K .......... .......... .......... .......... .......... 43%  201K 1s
+   200K .......... .......... .......... .......... .......... 54% 1.06M 1s
+   250K .......... .......... .......... .......... .......... 65%  243K 1s
+   300K .......... .......... .......... .......... .......... 76%  202K 0s
+   350K .......... .......... .......... .......... .......... 87%  202K 0s
+   400K .......... .......... .......... .......... .......... 98% 13.4M 0s
+   450K ........                                              100% 73.2M=1.7s
+
+2023-12-22 16:27:28 (262 KB/s) - ‘downloaded_site/tekvortex.com/wp-content/uploads/2022/09/IT-Infrastructure-1446x1536.png’ saved [469005/469005]
+
+--2023-12-22 16:27:28--  https://tekvortex.com/wp-content/uploads/2022/09/IT-Infrastructure-1928x2048.png
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 645592 (630K) [image/png]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/uploads/2022/09/IT-Infrastructure-1928x2048.png’
+
+     0K .......... .......... .......... .......... ..........  7% 9.12M 0s
+    50K .......... .......... .......... .......... .......... 15%  202K 1s
+   100K .......... .......... .......... .......... .......... 23% 7.19M 1s
+   150K .......... .......... .......... .......... .......... 31%  206K 1s
+   200K .......... .......... .......... .......... .......... 39% 7.40M 1s
+   250K .......... .......... .......... .......... .......... 47%  199K 1s
+   300K .......... .......... .......... .......... .......... 55%  193K 1s
+   350K .......... .......... .......... .......... .......... 63% 20.3M 1s
+   400K .......... .......... .......... .......... .......... 71%  213K 1s
+   450K .......... .......... .......... .......... .......... 79% 4.96M 0s
+   500K .......... .......... .......... .......... .......... 87%  208K 0s
+   550K .......... .......... .......... .......... .......... 95% 4.96M 0s
+   600K .......... .......... ..........                      100% 7.60M=1.5s
+
+2023-12-22 16:27:30 (415 KB/s) - ‘downloaded_site/tekvortex.com/wp-content/uploads/2022/09/IT-Infrastructure-1928x2048.png’ saved [645592/645592]
+
+--2023-12-22 16:27:30--  https://tekvortex.com/services__trashed/salesforce-development/
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘downloaded_site/tekvortex.com/services__trashed/salesforce-development/index.html’
+
+     0K .......... .......... .......... ..........            23.3M=0.002s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:27:30 (23.3 MB/s) - ‘downloaded_site/tekvortex.com/services__trashed/salesforce-development/index.html’ saved [40971]
+
+--2023-12-22 16:27:30--  https://tekvortex.com/wp-content/uploads/2022/09/sf-1.png
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 217287 (212K) [image/png]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/uploads/2022/09/sf-1.png’
+
+     0K .......... .......... .......... .......... .......... 23% 96.1K 2s
+    50K .......... .......... .......... .......... .......... 47%  101K 1s
+   100K .......... .......... .......... .......... .......... 70% 64.2M 0s
+   150K .......... .......... .......... .......... .......... 94% 1.42M 0s
+   200K .......... ..                                         100% 44.6M=1.1s
+
+2023-12-22 16:27:32 (202 KB/s) - ‘downloaded_site/tekvortex.com/wp-content/uploads/2022/09/sf-1.png’ saved [217287/217287]
+
+--2023-12-22 16:27:32--  https://tekvortex.com/wp-content/uploads/2022/09/sf-1-300x225.png
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 63103 (62K) [image/png]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/uploads/2022/09/sf-1-300x225.png’
+
+     0K .......... .......... .......... .......... .......... 81%  200K 0s
+    50K .......... .                                          100% 63.2M=0.3s
+
+2023-12-22 16:27:32 (246 KB/s) - ‘downloaded_site/tekvortex.com/wp-content/uploads/2022/09/sf-1-300x225.png’ saved [63103/63103]
+
+--2023-12-22 16:27:32--  https://tekvortex.com/wp-content/uploads/2022/09/sf-1-768x576.png
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 245658 (240K) [image/png]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/uploads/2022/09/sf-1-768x576.png’
+
+     0K .......... .......... .......... .......... .......... 20%  200K 1s
+    50K .......... .......... .......... .......... .......... 41% 11.6M 0s
+   100K .......... .......... .......... .......... .......... 62%  194K 0s
+   150K .......... .......... .......... .......... .......... 83%  203K 0s
+   200K .......... .......... .......... .........            100% 10.4M=0.8s
+
+2023-12-22 16:27:33 (315 KB/s) - ‘downloaded_site/tekvortex.com/wp-content/uploads/2022/09/sf-1-768x576.png’ saved [245658/245658]
+
+--2023-12-22 16:27:33--  https://tekvortex.com/contact-us
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://tekvortex.com/contact-us/ [following]
+--2023-12-22 16:27:34--  https://tekvortex.com/contact-us/
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 42876 (42K) [text/html]
+Saving to: ‘downloaded_site/tekvortex.com/contact-us.html’
+
+     0K .......... .......... .......... .......... .         100%  168K=0.2s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:27:34 (168 KB/s) - ‘downloaded_site/tekvortex.com/contact-us.html’ saved [42876/42876]
+
+--2023-12-22 16:27:34--  https://tekvortex.com/wp-content/uploads/2023/11/download.jpeg
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 3996 (3.9K) [image/jpeg]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/uploads/2023/11/download.jpeg’
+
+     0K ...                                                   100%  768M=0s
+
+2023-12-22 16:27:35 (768 MB/s) - ‘downloaded_site/tekvortex.com/wp-content/uploads/2023/11/download.jpeg’ saved [3996/3996]
+
+--2023-12-22 16:27:35--  https://tekvortex.com/wp-content/themes/tekvortex_new/image/quotes.png
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 5960 (5.8K) [image/png]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/image/quotes.png’
+
+     0K .....                                                 100% 1.16G=0s
+
+2023-12-22 16:27:35 (1.16 GB/s) - ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/image/quotes.png’ saved [5960/5960]
+
+--2023-12-22 16:27:35--  https://tekvortex.com/wp-content/uploads/2023/11/1655472457927.jpeg
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 92214 (90K) [image/jpeg]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/uploads/2023/11/1655472457927.jpeg’
+
+     0K .......... .......... .......... .......... .......... 55%  198K 0s
+    50K .......... .......... .......... ..........           100% 16.7M=0.3s
+
+2023-12-22 16:27:35 (354 KB/s) - ‘downloaded_site/tekvortex.com/wp-content/uploads/2023/11/1655472457927.jpeg’ saved [92214/92214]
+
+--2023-12-22 16:27:35--  https://tekvortex.com/wp-content/uploads/2023/07/noble.png
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7481 (7.3K) [image/png]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/uploads/2023/07/noble.png’
+
+     0K .......                                               100% 1.10G=0s
+
+2023-12-22 16:27:36 (1.10 GB/s) - ‘downloaded_site/tekvortex.com/wp-content/uploads/2023/07/noble.png’ saved [7481/7481]
+
+--2023-12-22 16:27:36--  https://tekvortex.com/wp-content/uploads/2023/07/smarsh.png
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 6813 (6.7K) [image/png]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/uploads/2023/07/smarsh.png’
+
+     0K ......                                                100% 1.15G=0s
+
+2023-12-22 16:27:36 (1.15 GB/s) - ‘downloaded_site/tekvortex.com/wp-content/uploads/2023/07/smarsh.png’ saved [6813/6813]
+
+--2023-12-22 16:27:36--  https://tekvortex.com/wp-content/uploads/2023/07/rane.png
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 9887 (9.7K) [image/png]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/uploads/2023/07/rane.png’
+
+     0K .........                                             100% 62.8M=0s
+
+2023-12-22 16:27:36 (62.8 MB/s) - ‘downloaded_site/tekvortex.com/wp-content/uploads/2023/07/rane.png’ saved [9887/9887]
+
+--2023-12-22 16:27:36--  https://tekvortex.com/wp-content/uploads/2023/07/cloudchomp.png
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 21791 (21K) [image/png]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/uploads/2023/07/cloudchomp.png’
+
+     0K .......... .......... .                               100%  101M=0s
+
+2023-12-22 16:27:36 (101 MB/s) - ‘downloaded_site/tekvortex.com/wp-content/uploads/2023/07/cloudchomp.png’ saved [21791/21791]
+
+--2023-12-22 16:27:36--  https://tekvortex.com/wp-content/uploads/2023/07/bci.png
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 15934 (16K) [image/png]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/uploads/2023/07/bci.png’
+
+     0K .......... .....                                      100%  139M=0s
+
+2023-12-22 16:27:37 (139 MB/s) - ‘downloaded_site/tekvortex.com/wp-content/uploads/2023/07/bci.png’ saved [15934/15934]
+
+--2023-12-22 16:27:37--  https://tekvortex.com/wp-content/uploads/2023/07/protagonist.png
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 12394 (12K) [image/png]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/uploads/2023/07/protagonist.png’
+
+     0K .......... ..                                         100%  111M=0s
+
+2023-12-22 16:27:37 (111 MB/s) - ‘downloaded_site/tekvortex.com/wp-content/uploads/2023/07/protagonist.png’ saved [12394/12394]
+
+--2023-12-22 16:27:37--  https://tekvortex.com/wp-content/uploads/2023/07/presentsoft.png
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 17316 (17K) [image/png]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/uploads/2023/07/presentsoft.png’
+
+     0K .......... ......                                     100% 90.0M=0s
+
+2023-12-22 16:27:37 (90.0 MB/s) - ‘downloaded_site/tekvortex.com/wp-content/uploads/2023/07/presentsoft.png’ saved [17316/17316]
+
+--2023-12-22 16:27:37--  https://tekvortex.com/wp-content/uploads/2023/07/paramit.png
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 23958 (23K) [image/png]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/uploads/2023/07/paramit.png’
+
+     0K .......... .......... ...                             100% 59.9M=0s
+
+2023-12-22 16:27:37 (59.9 MB/s) - ‘downloaded_site/tekvortex.com/wp-content/uploads/2023/07/paramit.png’ saved [23958/23958]
+
+--2023-12-22 16:27:37--  https://tekvortex.com/wp-content/uploads/2023/07/actionify.png
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 10333 (10K) [image/png]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/uploads/2023/07/actionify.png’
+
+     0K ..........                                            100%  106M=0s
+
+2023-12-22 16:27:38 (106 MB/s) - ‘downloaded_site/tekvortex.com/wp-content/uploads/2023/07/actionify.png’ saved [10333/10333]
+
+--2023-12-22 16:27:38--  https://tekvortex.com/wp-content/uploads/2023/07/vbom.png
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 18355 (18K) [image/png]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/uploads/2023/07/vbom.png’
+
+     0K .......... .......                                    100% 17.9K=1.0s
+
+2023-12-22 16:27:39 (17.9 KB/s) - ‘downloaded_site/tekvortex.com/wp-content/uploads/2023/07/vbom.png’ saved [18355/18355]
+
+--2023-12-22 16:27:39--  https://tekvortex.com/wp-content/themes/tekvortex_new/image/contactus.png
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 119658 (117K) [image/png]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/image/contactus.png’
+
+     0K .......... .......... .......... .......... .......... 42%  100K 1s
+    50K .......... .......... .......... .......... .......... 85%  200K 0s
+   100K .......... ......                                     100% 48.0M=0.7s
+
+2023-12-22 16:27:40 (156 KB/s) - ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/image/contactus.png’ saved [119658/119658]
+
+--2023-12-22 16:27:40--  https://tekvortex.com/wp-content/themes/tekvortex_new/image/chatbox.png
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 18670 (18K) [image/png]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/image/chatbox.png’
+
+     0K .......... ........                                   100% 66.2M=0s
+
+2023-12-22 16:27:41 (66.2 MB/s) - ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/image/chatbox.png’ saved [18670/18670]
+
+--2023-12-22 16:27:41--  https://tekvortex.com/wp-content/themes/tekvortex_new/image/mailbox.png
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 35438 (35K) [image/png]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/image/mailbox.png’
+
+     0K .......... .......... .......... ....                 100% 23.1M=0.001s
+
+2023-12-22 16:27:41 (23.1 MB/s) - ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/image/mailbox.png’ saved [35438/35438]
+
+--2023-12-22 16:27:41--  https://tekvortex.com/wp-content/themes/tekvortex_new/image/phone.png
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 33244 (32K) [image/png]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/image/phone.png’
+
+     0K .......... .......... .......... ..                   100% 21.7K=1.5s
+
+2023-12-22 16:27:43 (21.7 KB/s) - ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/image/phone.png’ saved [33244/33244]
+
+--2023-12-22 16:27:43--  https://tekvortex.com/wp-content/themes/tekvortex_new/js/d3.js
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4192 (4.1K) [application/javascript]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/js/d3.js’
+
+     0K ....                                                  100%  820M=0s
+
+2023-12-22 16:27:43 (820 MB/s) - ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/js/d3.js’ saved [4192/4192]
+
+--2023-12-22 16:27:43--  https://tekvortex.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8.5
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 11117 (11K) [application/javascript]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8.5’
+
+     0K ..........                                            100%  177M=0s
+
+2023-12-22 16:27:43 (177 MB/s) - ‘downloaded_site/tekvortex.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.8.5’ saved [11117/11117]
+
+--2023-12-22 16:27:43--  https://tekvortex.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8.5
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 13182 (13K) [application/javascript]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8.5’
+
+     0K .......... ..                                         100%  152M=0s
+
+2023-12-22 16:27:44 (152 MB/s) - ‘downloaded_site/tekvortex.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.8.5’ saved [13182/13182]
+
+--2023-12-22 16:27:44--  https://tekvortex.com/wp-content/plugins/wp-job-openings/assets/js/script.min.js?ver=3.4.3
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 48764 (48K) [application/javascript]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/plugins/wp-job-openings/assets/js/script.min.js?ver=3.4.3’
+
+     0K .......... .......... .......... .......... .......   100%  191K=0.2s
+
+2023-12-22 16:27:45 (191 KB/s) - ‘downloaded_site/tekvortex.com/wp-content/plugins/wp-job-openings/assets/js/script.min.js?ver=3.4.3’ saved [48764/48764]
+
+--2023-12-22 16:27:45--  https://tekvortex.com/wp-content/themes/tekvortex_new/js/navigation.js?ver=1.0.0
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2980 (2.9K) [application/javascript]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/js/navigation.js?ver=1.0.0’
+
+     0K ..                                                    100%  510M=0s
+
+2023-12-22 16:27:45 (510 MB/s) - ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/js/navigation.js?ver=1.0.0’ saved [2980/2980]
+
+--2023-12-22 16:27:45--  https://tekvortex.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8171 (8.0K) [application/javascript]
+Saving to: ‘downloaded_site/tekvortex.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2’
+
+     0K .......                                               100% 1.10G=0s
+
+2023-12-22 16:27:45 (1.10 GB/s) - ‘downloaded_site/tekvortex.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2’ saved [8171/8171]
+
+--2023-12-22 16:27:45--  https://tekvortex.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 6625 (6.5K) [application/javascript]
+Saving to: ‘downloaded_site/tekvortex.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0’
+
+     0K ......                                                100% 1.05G=0s
+
+2023-12-22 16:27:45 (1.05 GB/s) - ‘downloaded_site/tekvortex.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.14.0’ saved [6625/6625]
+
+--2023-12-22 16:27:45--  https://tekvortex.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 115127 (112K) [application/javascript]
+Saving to: ‘downloaded_site/tekvortex.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0’
+
+     0K .......... .......... .......... .......... .......... 44%  101K 1s
+    50K .......... .......... .......... .......... .......... 88%  199K 0s
+   100K .......... ..                                         100% 36.7M=0.7s
+
+2023-12-22 16:27:46 (150 KB/s) - ‘downloaded_site/tekvortex.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0’ saved [115127/115127]
+
+--2023-12-22 16:27:46--  https://tekvortex.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.8.5
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 934 [application/javascript]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.8.5’
+
+     0K                                                       100%  121M=0s
+
+2023-12-22 16:27:47 (121 MB/s) - ‘downloaded_site/tekvortex.com/wp-content/plugins/contact-form-7/modules/recaptcha/index.js?ver=5.8.5’ saved [934/934]
+
+--2023-12-22 16:27:47--  https://tekvortex.com/wp-content/plugins/wp-job-openings/assets/fonts/awsm-jobs-icomoon.eot?49gwka
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 184740 (180K) [application/vnd.ms-fontobject]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/plugins/wp-job-openings/assets/fonts/awsm-jobs-icomoon.eot?49gwka’
+
+     0K .......... .......... .......... .......... .......... 27%  192K 1s
+    50K .......... .......... .......... .......... .......... 55% 66.8K 1s
+   100K .......... .......... .......... .......... .......... 83% 9.87M 0s
+   150K .......... .......... ..........                      100%  124K=1.3s
+
+2023-12-22 16:27:48 (143 KB/s) - ‘downloaded_site/tekvortex.com/wp-content/plugins/wp-job-openings/assets/fonts/awsm-jobs-icomoon.eot?49gwka’ saved [184740/184740]
+
+--2023-12-22 16:27:48--  https://tekvortex.com/wp-content/plugins/wp-job-openings/assets/fonts/awsm-jobs-icomoon.ttf?49gwka
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 184536 (180K) [font/ttf]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/plugins/wp-job-openings/assets/fonts/awsm-jobs-icomoon.ttf?49gwka’
+
+     0K .......... .......... .......... .......... .......... 27%  100K 1s
+    50K .......... .......... .......... .......... .......... 55%  200K 1s
+   100K .......... .......... .......... .......... .......... 83%  199K 0s
+   150K .......... .......... ..........                      100%  123K=1.2s
+
+2023-12-22 16:27:50 (145 KB/s) - ‘downloaded_site/tekvortex.com/wp-content/plugins/wp-job-openings/assets/fonts/awsm-jobs-icomoon.ttf?49gwka’ saved [184536/184536]
+
+--2023-12-22 16:27:50--  https://tekvortex.com/wp-content/plugins/wp-job-openings/assets/fonts/awsm-jobs-icomoon.woff?49gwka
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 184612 (180K) [font/woff]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/plugins/wp-job-openings/assets/fonts/awsm-jobs-icomoon.woff?49gwka’
+
+     0K .......... .......... .......... .......... .......... 27%  197K 1s
+    50K .......... .......... .......... .......... .......... 55%  197K 0s
+   100K .......... .......... .......... .......... .......... 83%  200K 0s
+   150K .......... .......... ..........                      100%  124K=1.0s
+
+2023-12-22 16:27:51 (180 KB/s) - ‘downloaded_site/tekvortex.com/wp-content/plugins/wp-job-openings/assets/fonts/awsm-jobs-icomoon.woff?49gwka’ saved [184612/184612]
+
+--2023-12-22 16:27:51--  https://tekvortex.com/wp-content/plugins/wp-job-openings/assets/fonts/awsm-jobs-icomoon.svg?49gwka
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 681697 (666K) [image/svg+xml]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/plugins/wp-job-openings/assets/fonts/awsm-jobs-icomoon.svg?49gwka’
+
+     0K .......... .......... .......... .......... ..........  7%  100K 6s
+    50K .......... .......... .......... .......... .......... 15%  100K 6s
+   100K .......... .......... .......... .......... .......... 22%  197K 4s
+   150K .......... .......... .......... .......... .......... 30%  198K 4s
+   200K .......... .......... .......... .......... .......... 37%  172K 3s
+   250K .......... .......... .......... .......... .......... 45%  112K 3s
+   300K .......... .......... .......... .......... .......... 52%  199K 2s
+   350K .......... .......... .......... .......... .......... 60%  192K 2s
+   400K .......... .......... .......... .......... .......... 67%  171K 1s
+   450K .......... .......... .......... .......... .......... 75%  110K 1s
+   500K .......... .......... .......... .......... .......... 82%  188K 1s
+   550K .......... .......... .......... .......... .......... 90%  200K 0s
+   600K .......... .......... .......... .......... .......... 97%  199K 0s
+   650K .......... .....                                      100% 8.16M=4.3s
+
+2023-12-22 16:27:56 (156 KB/s) - ‘downloaded_site/tekvortex.com/wp-content/plugins/wp-job-openings/assets/fonts/awsm-jobs-icomoon.svg?49gwka’ saved [681697/681697]
+
+--2023-12-22 16:27:56--  https://tekvortex.com/wp-content/plugins/wp-job-openings/assets/img/loading.svg
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 804 [image/svg+xml]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/plugins/wp-job-openings/assets/img/loading.svg’
+
+     0K                                                       100%  158M=0s
+
+2023-12-22 16:27:56 (158 MB/s) - ‘downloaded_site/tekvortex.com/wp-content/plugins/wp-job-openings/assets/img/loading.svg’ saved [804/804]
+
+--2023-12-22 16:27:56--  https://tekvortex.com/wp-content/themes/tekvortex_new/sass/slick/ajax-loader.gif
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 4178 (4.1K) [image/gif]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/sass/slick/ajax-loader.gif’
+
+     0K ....                                                  100% 83.4M=0s
+
+2023-12-22 16:27:56 (83.4 MB/s) - ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/sass/slick/ajax-loader.gif’ saved [4178/4178]
+
+--2023-12-22 16:27:56--  https://tekvortex.com/wp-content/themes/tekvortex_new/sass/slick/fonts/slick.eot
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2048 (2.0K) [application/vnd.ms-fontobject]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/sass/slick/fonts/slick.eot’
+
+     0K ..                                                    100%  411M=0s
+
+2023-12-22 16:27:57 (411 MB/s) - ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/sass/slick/fonts/slick.eot’ saved [2048/2048]
+
+--2023-12-22 16:27:57--  https://tekvortex.com/wp-content/themes/tekvortex_new/sass/slick/fonts/slick.eot?
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2048 (2.0K) [application/vnd.ms-fontobject]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/sass/slick/fonts/slick.eot?’
+
+     0K ..                                                    100%  406M=0s
+
+2023-12-22 16:27:57 (406 MB/s) - ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/sass/slick/fonts/slick.eot?’ saved [2048/2048]
+
+--2023-12-22 16:27:57--  https://tekvortex.com/wp-content/themes/tekvortex_new/sass/slick/fonts/slick.woff
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1380 (1.3K) [font/woff]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/sass/slick/fonts/slick.woff’
+
+     0K .                                                     100%  238M=0s
+
+2023-12-22 16:27:57 (238 MB/s) - ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/sass/slick/fonts/slick.woff’ saved [1380/1380]
+
+--2023-12-22 16:27:57--  https://tekvortex.com/wp-content/themes/tekvortex_new/sass/slick/fonts/slick.ttf
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 1892 (1.8K) [font/ttf]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/sass/slick/fonts/slick.ttf’
+
+     0K .                                                     100%  330M=0s
+
+2023-12-22 16:27:59 (330 MB/s) - ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/sass/slick/fonts/slick.ttf’ saved [1892/1892]
+
+--2023-12-22 16:27:59--  https://tekvortex.com/wp-content/themes/tekvortex_new/sass/slick/fonts/slick.svg
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2152 (2.1K) [image/svg+xml]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/sass/slick/fonts/slick.svg’
+
+     0K ..                                                    100%  896M=0s
+
+2023-12-22 16:27:59 (896 MB/s) - ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/sass/slick/fonts/slick.svg’ saved [2152/2152]
+
+--2023-12-22 16:27:59--  https://tekvortex.com/wp-content/themes/tekvortex_new/image/hero-seven-bg-1-1.png
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 203552 (199K) [image/png]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/image/hero-seven-bg-1-1.png’
+
+     0K .......... .......... .......... .......... .......... 25% 50.1K 3s
+    50K .......... .......... .......... .......... .......... 50%  100K 1s
+   100K .......... .......... .......... .......... .......... 75%  171K 1s
+   150K .......... .......... .......... .......... ........  100%  107K=2.2s
+
+2023-12-22 16:28:02 (88.4 KB/s) - ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/image/hero-seven-bg-1-1.png’ saved [203552/203552]
+
+--2023-12-22 16:28:02--  https://tekvortex.com/wp-content/themes/tekvortex_new/image/contact_back.png
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 10828 (11K) [image/png]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/image/contact_back.png’
+
+     0K ..........                                            100%  101M=0s
+
+2023-12-22 16:28:02 (101 MB/s) - ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/image/contact_back.png’ saved [10828/10828]
+
+--2023-12-22 16:28:02--  https://tekvortex.com/wp-content/themes/tekvortex_new/image/newbg.jpg
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 9100 (8.9K) [image/jpeg]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/image/newbg.jpg’
+
+     0K ........                                              100% 10.0M=0.001s
+
+2023-12-22 16:28:02 (10.0 MB/s) - ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/image/newbg.jpg’ saved [9100/9100]
+
+--2023-12-22 16:28:02--  https://tekvortex.com/wp-content/themes/tekvortex_new/image/title-bg.jpg
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 68319 (67K) [image/jpeg]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/image/title-bg.jpg’
+
+     0K .......... .......... .......... .......... .......... 74%  193K 0s
+    50K .......... ......                                     100%  137M=0.3s
+
+2023-12-22 16:28:03 (257 KB/s) - ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/image/title-bg.jpg’ saved [68319/68319]
+
+--2023-12-22 16:28:03--  https://tekvortex.com/wp-content/themes/tekvortex_new/image/title_bix.jpg
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 37195 (36K) [image/jpeg]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/image/title_bix.jpg’
+
+     0K .......... .......... .......... ......               100%  144K=0.3s
+
+2023-12-22 16:28:03 (144 KB/s) - ‘downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/image/title_bix.jpg’ saved [37195/37195]
+
+--2023-12-22 16:28:03--  https://tekvortex.com/wp-json/wp/v2/case-study/3304
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 8181 (8.0K) [application/json]
+Saving to: ‘downloaded_site/tekvortex.com/wp-json/wp/v2/case-study/3304’
+
+     0K .......                                               100% 1.28G=0s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:28:04 (1.28 GB/s) - ‘downloaded_site/tekvortex.com/wp-json/wp/v2/case-study/3304’ saved [8181/8181]
+
+--2023-12-22 16:28:04--  https://tekvortex.com/?p=3304
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://tekvortex.com/case-study/cloudchomp-case-study/ [following]
+--2023-12-22 16:28:05--  https://tekvortex.com/case-study/cloudchomp-case-study/
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 43828 (43K) [text/html]
+Saving to: ‘downloaded_site/tekvortex.com/index.html?p=3304.html’
+
+     0K .......... .......... .......... .......... ..        100% 84.1K=0.5s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:28:05 (84.1 KB/s) - ‘downloaded_site/tekvortex.com/index.html?p=3304.html’ saved [43828/43828]
+
+--2023-12-22 16:28:05--  https://tekvortex.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftekvortex.com%2Fcase-study%2Fcloudchomp-case-study%2F
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2574 (2.5K) [application/json]
+Saving to: ‘downloaded_site/tekvortex.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftekvortex.com%2Fcase-study%2Fcloudchomp-case-study%2F’
+
+     0K ..                                                    100%  521M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:28:06 (521 MB/s) - ‘downloaded_site/tekvortex.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftekvortex.com%2Fcase-study%2Fcloudchomp-case-study%2F’ saved [2574/2574]
+
+--2023-12-22 16:28:06--  https://tekvortex.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftekvortex.com%2Fcase-study%2Fcloudchomp-case-study%2F&format=xml
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2780 (2.7K) [text/xml]
+Saving to: ‘downloaded_site/tekvortex.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftekvortex.com%2Fcase-study%2Fcloudchomp-case-study%2F&format=xml’
+
+     0K ..                                                    100%  605M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:28:07 (605 MB/s) - ‘downloaded_site/tekvortex.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftekvortex.com%2Fcase-study%2Fcloudchomp-case-study%2F&format=xml’ saved [2780/2780]
+
+--2023-12-22 16:28:07--  https://tekvortex.com/wp-content/uploads/2023/07/banner.jpg
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 74268 (73K) [image/jpeg]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/uploads/2023/07/banner.jpg’
+
+     0K .......... .......... .......... .......... .......... 68%  100K 0s
+    50K .......... .......... ..                              100% 90.9K=0.7s
+
+2023-12-22 16:28:08 (97.0 KB/s) - ‘downloaded_site/tekvortex.com/wp-content/uploads/2023/07/banner.jpg’ saved [74268/74268]
+
+--2023-12-22 16:28:08--  https://tekvortex.com/wp-content/uploads/2023/07/CloudChomp_Logo-1.png
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 48656 (48K) [image/png]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/uploads/2023/07/CloudChomp_Logo-1.png’
+
+     0K .......... .......... .......... .......... .......   100%  188K=0.3s
+
+2023-12-22 16:28:08 (188 KB/s) - ‘downloaded_site/tekvortex.com/wp-content/uploads/2023/07/CloudChomp_Logo-1.png’ saved [48656/48656]
+
+--2023-12-22 16:28:08--  https://tekvortex.com/wp-json/wp/v2/case-study/3333
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 7433 (7.3K) [application/json]
+Saving to: ‘downloaded_site/tekvortex.com/wp-json/wp/v2/case-study/3333’
+
+     0K .......                                               100%  891M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:28:09 (891 MB/s) - ‘downloaded_site/tekvortex.com/wp-json/wp/v2/case-study/3333’ saved [7433/7433]
+
+--2023-12-22 16:28:09--  https://tekvortex.com/?p=3333
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://tekvortex.com/case-study/rane/ [following]
+--2023-12-22 16:28:09--  https://tekvortex.com/case-study/rane/
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 44436 (43K) [text/html]
+Saving to: ‘downloaded_site/tekvortex.com/index.html?p=3333.html’
+
+     0K .......... .......... .......... .......... ...       100% 86.9K=0.5s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:28:10 (86.9 KB/s) - ‘downloaded_site/tekvortex.com/index.html?p=3333.html’ saved [44436/44436]
+
+--2023-12-22 16:28:10--  https://tekvortex.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftekvortex.com%2Fcase-study%2Frane%2F
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2400 (2.3K) [application/json]
+Saving to: ‘downloaded_site/tekvortex.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftekvortex.com%2Fcase-study%2Frane%2F’
+
+     0K ..                                                    100%  543M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:28:11 (543 MB/s) - ‘downloaded_site/tekvortex.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftekvortex.com%2Fcase-study%2Frane%2F’ saved [2400/2400]
+
+--2023-12-22 16:28:11--  https://tekvortex.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftekvortex.com%2Fcase-study%2Frane%2F&format=xml
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2606 (2.5K) [text/xml]
+Saving to: ‘downloaded_site/tekvortex.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftekvortex.com%2Fcase-study%2Frane%2F&format=xml’
+
+     0K ..                                                    100%  559M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:28:11 (559 MB/s) - ‘downloaded_site/tekvortex.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftekvortex.com%2Fcase-study%2Frane%2F&format=xml’ saved [2606/2606]
+
+--2023-12-22 16:28:11--  https://tekvortex.com/wp-content/uploads/2023/07/tokyo-people-traveling-street.jpg
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 517064 (505K) [image/jpeg]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/uploads/2023/07/tokyo-people-traveling-street.jpg’
+
+     0K .......... .......... .......... .......... ..........  9% 32.2K 14s
+    50K .......... .......... .......... .......... .......... 19% 49.2K 10s
+   100K .......... .......... .......... .......... .......... 29% 54.1K 8s
+   150K .......... .......... .......... .......... .......... 39% 61.1K 7s
+   200K .......... .......... .......... .......... .......... 49% 73.7K 5s
+   250K .......... .......... .......... .......... .......... 59% 99.3K 4s
+   300K .......... .......... .......... .......... .......... 69% 99.7K 3s
+   350K .......... .......... .......... .......... .......... 79% 86.4K 2s
+   400K .......... .......... .......... .......... .......... 89%  101K 1s
+   450K .......... .......... .......... .......... .......... 99%  200K 0s
+   500K ....                                                  100% 48.3M=7.3s
+
+2023-12-22 16:28:19 (69.0 KB/s) - ‘downloaded_site/tekvortex.com/wp-content/uploads/2023/07/tokyo-people-traveling-street.jpg’ saved [517064/517064]
+
+--2023-12-22 16:28:19--  https://tekvortex.com/wp-content/uploads/2023/07/5f525debb813c367b7a6a791_Rane-logo-1.png
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 10956 (11K) [image/png]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/uploads/2023/07/5f525debb813c367b7a6a791_Rane-logo-1.png’
+
+     0K ..........                                            100% 9.49M=0.001s
+
+2023-12-22 16:28:19 (9.49 MB/s) - ‘downloaded_site/tekvortex.com/wp-content/uploads/2023/07/5f525debb813c367b7a6a791_Rane-logo-1.png’ saved [10956/10956]
+
+--2023-12-22 16:28:19--  https://tekvortex.com/wp-json/wp/v2/pages/14
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Saving to: ‘downloaded_site/tekvortex.com/wp-json/wp/v2/pages/14’
+
+     0K .........                                              74.8M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:28:20 (74.8 MB/s) - ‘downloaded_site/tekvortex.com/wp-json/wp/v2/pages/14’ saved [9310]
+
+--2023-12-22 16:28:20--  https://tekvortex.com/?p=14
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://tekvortex.com/about-us/ [following]
+--2023-12-22 16:28:20--  https://tekvortex.com/about-us/
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 52361 (51K) [text/html]
+Saving to: ‘downloaded_site/tekvortex.com/index.html?p=14.html’
+
+     0K .......... .......... .......... .......... .......... 97%  100K 0s
+    50K .                                                     100% 2163G=0.5s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:28:21 (102 KB/s) - ‘downloaded_site/tekvortex.com/index.html?p=14.html’ saved [52361/52361]
+
+--2023-12-22 16:28:21--  https://tekvortex.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftekvortex.com%2Fabout-us%2F
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2644 (2.6K) [application/json]
+Saving to: ‘downloaded_site/tekvortex.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftekvortex.com%2Fabout-us%2F’
+
+     0K ..                                                    100%  595M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:28:22 (595 MB/s) - ‘downloaded_site/tekvortex.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftekvortex.com%2Fabout-us%2F’ saved [2644/2644]
+
+--2023-12-22 16:28:22--  https://tekvortex.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftekvortex.com%2Fabout-us%2F&format=xml
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2852 (2.8K) [text/xml]
+Saving to: ‘downloaded_site/tekvortex.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftekvortex.com%2Fabout-us%2F&format=xml’
+
+     0K ..                                                    100% 1.15G=0s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:28:22 (1.15 GB/s) - ‘downloaded_site/tekvortex.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftekvortex.com%2Fabout-us%2F&format=xml’ saved [2852/2852]
+
+--2023-12-22 16:28:22--  https://tekvortex.com/wp-content/uploads/2023/07/9-3.jpg
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 126447 (123K) [image/jpeg]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/uploads/2023/07/9-3.jpg’
+
+     0K .......... .......... .......... .......... .......... 40% 66.3K 1s
+    50K .......... .......... .......... .......... .......... 80%  199K 0s
+   100K .......... .......... ...                             100%  540K=1.0s
+
+2023-12-22 16:28:24 (118 KB/s) - ‘downloaded_site/tekvortex.com/wp-content/uploads/2023/07/9-3.jpg’ saved [126447/126447]
+
+--2023-12-22 16:28:24--  https://tekvortex.com/wp-content/uploads/2023/07/7-3.jpg
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 297662 (291K) [image/jpeg]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/uploads/2023/07/7-3.jpg’
+
+     0K .......... .......... .......... .......... .......... 17%  199K 1s
+    50K .......... .......... .......... .......... .......... 34% 66.7K 2s
+   100K .......... .......... .......... .......... .......... 51%  196K 1s
+   150K .......... .......... .......... .......... .......... 68%  101K 1s
+   200K .......... .......... .......... .......... .......... 86%  197K 0s
+   250K .......... .......... .......... ..........           100%  164K=2.3s
+
+2023-12-22 16:28:26 (129 KB/s) - ‘downloaded_site/tekvortex.com/wp-content/uploads/2023/07/7-3.jpg’ saved [297662/297662]
+
+--2023-12-22 16:28:26--  https://tekvortex.com/wp-content/uploads/2023/07/5-3.jpg
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 166347 (162K) [image/jpeg]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/uploads/2023/07/5-3.jpg’
+
+     0K .......... .......... .......... .......... .......... 30%  193K 1s
+    50K .......... .......... .......... .......... .......... 61%  101K 0s
+   100K .......... .......... .......... .......... .......... 92%  199K 0s
+   150K .......... ..                                         100% 43.9M=1.0s
+
+2023-12-22 16:28:28 (162 KB/s) - ‘downloaded_site/tekvortex.com/wp-content/uploads/2023/07/5-3.jpg’ saved [166347/166347]
+
+--2023-12-22 16:28:28--  https://tekvortex.com/wp-content/uploads/2023/07/bg-video-2.jpg
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 106380 (104K) [image/jpeg]
+Saving to: ‘downloaded_site/tekvortex.com/wp-content/uploads/2023/07/bg-video-2.jpg’
+
+     0K .......... .......... .......... .......... .......... 48%  199K 0s
+    50K .......... .......... .......... .......... .......... 96% 32.9K 0s
+   100K ...                                                   100% 7413G=1.8s
+
+2023-12-22 16:28:30 (58.7 KB/s) - ‘downloaded_site/tekvortex.com/wp-content/uploads/2023/07/bg-video-2.jpg’ saved [106380/106380]
+
+--2023-12-22 16:28:30--  https://tekvortex.com/wp-json/wp/v2/pages/20
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Saving to: ‘downloaded_site/tekvortex.com/wp-json/wp/v2/pages/20’
+
+     0K ........                                               69.1M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:28:30 (69.1 MB/s) - ‘downloaded_site/tekvortex.com/wp-json/wp/v2/pages/20’ saved [8493]
+
+--2023-12-22 16:28:30--  https://tekvortex.com/?p=20
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://tekvortex.com/careers/ [following]
+--2023-12-22 16:28:31--  https://tekvortex.com/careers/
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 46885 (46K) [text/html]
+Saving to: ‘downloaded_site/tekvortex.com/index.html?p=20.html’
+
+     0K .......... .......... .......... .......... .....     100% 91.2K=0.5s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:28:32 (91.2 KB/s) - ‘downloaded_site/tekvortex.com/index.html?p=20.html’ saved [46885/46885]
+
+--2023-12-22 16:28:32--  https://tekvortex.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftekvortex.com%2Fcareers%2F
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2458 (2.4K) [application/json]
+Saving to: ‘downloaded_site/tekvortex.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftekvortex.com%2Fcareers%2F’
+
+     0K ..                                                    100%  526M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:28:32 (526 MB/s) - ‘downloaded_site/tekvortex.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftekvortex.com%2Fcareers%2F’ saved [2458/2458]
+
+--2023-12-22 16:28:32--  https://tekvortex.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftekvortex.com%2Fcareers%2F&format=xml
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2628 (2.6K) [text/xml]
+Saving to: ‘downloaded_site/tekvortex.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftekvortex.com%2Fcareers%2F&format=xml’
+
+     0K ..                                                    100%  724M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:28:33 (724 MB/s) - ‘downloaded_site/tekvortex.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftekvortex.com%2Fcareers%2F&format=xml’ saved [2628/2628]
+
+--2023-12-22 16:28:33--  https://tekvortex.com/job/python-developer/
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘downloaded_site/tekvortex.com/job/python-developer/index.html’
+
+     0K .......... .......... .......... .......... .......     189K=0.3s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:28:34 (189 KB/s) - ‘downloaded_site/tekvortex.com/job/python-developer/index.html’ saved [48576]
+
+--2023-12-22 16:28:34--  https://tekvortex.com/job/back-end-developer/
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘downloaded_site/tekvortex.com/job/back-end-developer/index.html’
+
+     0K .......... .......... .......... .......... .....       183K=0.3s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:28:35 (183 KB/s) - ‘downloaded_site/tekvortex.com/job/back-end-developer/index.html’ saved [46981]
+
+--2023-12-22 16:28:35--  https://tekvortex.com/wp-json/wp/v2/pages/16
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 6780 (6.6K) [application/json]
+Saving to: ‘downloaded_site/tekvortex.com/wp-json/wp/v2/pages/16’
+
+     0K ......                                                100% 1.03G=0s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:28:36 (1.03 GB/s) - ‘downloaded_site/tekvortex.com/wp-json/wp/v2/pages/16’ saved [6780/6780]
+
+--2023-12-22 16:28:36--  https://tekvortex.com/?p=16
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://tekvortex.com/contact-us/ [following]
+--2023-12-22 16:28:37--  https://tekvortex.com/contact-us/
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 42876 (42K) [text/html]
+Saving to: ‘downloaded_site/tekvortex.com/index.html?p=16.html’
+
+     0K .......... .......... .......... .......... .         100% 84.0K=0.5s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:28:37 (84.0 KB/s) - ‘downloaded_site/tekvortex.com/index.html?p=16.html’ saved [42876/42876]
+
+--2023-12-22 16:28:37--  https://tekvortex.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftekvortex.com%2Fcontact-us%2F
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2083 (2.0K) [application/json]
+Saving to: ‘downloaded_site/tekvortex.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftekvortex.com%2Fcontact-us%2F’
+
+     0K ..                                                    100%  344M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:28:38 (344 MB/s) - ‘downloaded_site/tekvortex.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftekvortex.com%2Fcontact-us%2F’ saved [2083/2083]
+
+--2023-12-22 16:28:38--  https://tekvortex.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftekvortex.com%2Fcontact-us%2F&format=xml
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2243 (2.2K) [text/xml]
+Saving to: ‘downloaded_site/tekvortex.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftekvortex.com%2Fcontact-us%2F&format=xml’
+
+     0K ..                                                    100%  378M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:28:39 (378 MB/s) - ‘downloaded_site/tekvortex.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftekvortex.com%2Fcontact-us%2F&format=xml’ saved [2243/2243]
+
+--2023-12-22 16:28:39--  https://tekvortex.com/wp-json/wp/v2/pages/2984
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Saving to: ‘downloaded_site/tekvortex.com/wp-json/wp/v2/pages/2984’
+
+     0K .......... .                                            109M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:28:39 (109 MB/s) - ‘downloaded_site/tekvortex.com/wp-json/wp/v2/pages/2984’ saved [11399]
+
+--2023-12-22 16:28:39--  https://tekvortex.com/?p=2984
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://tekvortex.com/services__trashed/application-development/ [following]
+--2023-12-22 16:28:40--  https://tekvortex.com/services__trashed/application-development/
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 41675 (41K) [text/html]
+Saving to: ‘downloaded_site/tekvortex.com/index.html?p=2984.html’
+
+     0K .......... .......... .......... ..........           100% 80.9K=0.5s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:28:41 (80.9 KB/s) - ‘downloaded_site/tekvortex.com/index.html?p=2984.html’ saved [41675/41675]
+
+--2023-12-22 16:28:41--  https://tekvortex.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftekvortex.com%2Fservices__trashed%2Fapplication-development%2F
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2734 (2.7K) [application/json]
+Saving to: ‘downloaded_site/tekvortex.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftekvortex.com%2Fservices__trashed%2Fapplication-development%2F’
+
+     0K ..                                                    100%  565M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:28:41 (565 MB/s) - ‘downloaded_site/tekvortex.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftekvortex.com%2Fservices__trashed%2Fapplication-development%2F’ saved [2734/2734]
+
+--2023-12-22 16:28:41--  https://tekvortex.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftekvortex.com%2Fservices__trashed%2Fapplication-development%2F&format=xml
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2940 (2.9K) [text/xml]
+Saving to: ‘downloaded_site/tekvortex.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftekvortex.com%2Fservices__trashed%2Fapplication-development%2F&format=xml’
+
+     0K ..                                                    100%  688M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:28:42 (688 MB/s) - ‘downloaded_site/tekvortex.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftekvortex.com%2Fservices__trashed%2Fapplication-development%2F&format=xml’ saved [2940/2940]
+
+--2023-12-22 16:28:42--  https://tekvortex.com/wp-json/wp/v2/pages/2986
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Saving to: ‘downloaded_site/tekvortex.com/wp-json/wp/v2/pages/2986’
+
+     0K ..........                                             98.1M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:28:43 (98.1 MB/s) - ‘downloaded_site/tekvortex.com/wp-json/wp/v2/pages/2986’ saved [10942]
+
+--2023-12-22 16:28:43--  https://tekvortex.com/?p=2986
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://tekvortex.com/services__trashed/consultation-services/ [following]
+--2023-12-22 16:28:43--  https://tekvortex.com/services__trashed/consultation-services/
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 41469 (40K) [text/html]
+Saving to: ‘downloaded_site/tekvortex.com/index.html?p=2986.html’
+
+     0K .......... .......... .......... ..........           100% 81.2K=0.5s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:28:44 (81.2 KB/s) - ‘downloaded_site/tekvortex.com/index.html?p=2986.html’ saved [41469/41469]
+
+--2023-12-22 16:28:44--  https://tekvortex.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftekvortex.com%2Fservices__trashed%2Fconsultation-services%2F
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2677 (2.6K) [application/json]
+Saving to: ‘downloaded_site/tekvortex.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftekvortex.com%2Fservices__trashed%2Fconsultation-services%2F’
+
+     0K ..                                                    100%  455M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:28:45 (455 MB/s) - ‘downloaded_site/tekvortex.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftekvortex.com%2Fservices__trashed%2Fconsultation-services%2F’ saved [2677/2677]
+
+--2023-12-22 16:28:45--  https://tekvortex.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftekvortex.com%2Fservices__trashed%2Fconsultation-services%2F&format=xml
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2883 (2.8K) [text/xml]
+Saving to: ‘downloaded_site/tekvortex.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftekvortex.com%2Fservices__trashed%2Fconsultation-services%2F&format=xml’
+
+     0K ..                                                    100%  194M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:28:45 (194 MB/s) - ‘downloaded_site/tekvortex.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftekvortex.com%2Fservices__trashed%2Fconsultation-services%2F&format=xml’ saved [2883/2883]
+
+--2023-12-22 16:28:45--  https://tekvortex.com/wp-json/wp/v2/pages/2989
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Saving to: ‘downloaded_site/tekvortex.com/wp-json/wp/v2/pages/2989’
+
+     0K ..........                                             63.7M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:28:46 (63.7 MB/s) - ‘downloaded_site/tekvortex.com/wp-json/wp/v2/pages/2989’ saved [10956]
+
+--2023-12-22 16:28:46--  https://tekvortex.com/?p=2989
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://tekvortex.com/services__trashed/mobile-application/ [following]
+--2023-12-22 16:28:47--  https://tekvortex.com/services__trashed/mobile-application/
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 41308 (40K) [text/html]
+Saving to: ‘downloaded_site/tekvortex.com/index.html?p=2989.html’
+
+     0K .......... .......... .......... ..........           100% 80.8K=0.5s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:28:47 (80.8 KB/s) - ‘downloaded_site/tekvortex.com/index.html?p=2989.html’ saved [41308/41308]
+
+--2023-12-22 16:28:47--  https://tekvortex.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftekvortex.com%2Fservices__trashed%2Fmobile-application%2F
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2760 (2.7K) [application/json]
+Saving to: ‘downloaded_site/tekvortex.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftekvortex.com%2Fservices__trashed%2Fmobile-application%2F’
+
+     0K ..                                                    100%  423M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:28:48 (423 MB/s) - ‘downloaded_site/tekvortex.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftekvortex.com%2Fservices__trashed%2Fmobile-application%2F’ saved [2760/2760]
+
+--2023-12-22 16:28:48--  https://tekvortex.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftekvortex.com%2Fservices__trashed%2Fmobile-application%2F&format=xml
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2969 (2.9K) [text/xml]
+Saving to: ‘downloaded_site/tekvortex.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftekvortex.com%2Fservices__trashed%2Fmobile-application%2F&format=xml’
+
+     0K ..                                                    100%  454M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:28:49 (454 MB/s) - ‘downloaded_site/tekvortex.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftekvortex.com%2Fservices__trashed%2Fmobile-application%2F&format=xml’ saved [2969/2969]
+
+--2023-12-22 16:28:49--  https://tekvortex.com/wp-json/wp/v2/pages/2991
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Saving to: ‘downloaded_site/tekvortex.com/wp-json/wp/v2/pages/2991’
+
+     0K ..........                                             55.7M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:28:49 (55.7 MB/s) - ‘downloaded_site/tekvortex.com/wp-json/wp/v2/pages/2991’ saved [10889]
+
+--2023-12-22 16:28:49--  https://tekvortex.com/?p=2991
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://tekvortex.com/services__trashed/quality-assurance/ [following]
+--2023-12-22 16:28:50--  https://tekvortex.com/services__trashed/quality-assurance/
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 41353 (40K) [text/html]
+Saving to: ‘downloaded_site/tekvortex.com/index.html?p=2991.html’
+
+     0K .......... .......... .......... ..........           100% 80.5K=0.5s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:28:51 (80.5 KB/s) - ‘downloaded_site/tekvortex.com/index.html?p=2991.html’ saved [41353/41353]
+
+--2023-12-22 16:28:51--  https://tekvortex.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftekvortex.com%2Fservices__trashed%2Fquality-assurance%2F
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2746 (2.7K) [application/json]
+Saving to: ‘downloaded_site/tekvortex.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftekvortex.com%2Fservices__trashed%2Fquality-assurance%2F’
+
+     0K ..                                                    100%  482M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:28:51 (482 MB/s) - ‘downloaded_site/tekvortex.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftekvortex.com%2Fservices__trashed%2Fquality-assurance%2F’ saved [2746/2746]
+
+--2023-12-22 16:28:51--  https://tekvortex.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftekvortex.com%2Fservices__trashed%2Fquality-assurance%2F&format=xml
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2954 (2.9K) [text/xml]
+Saving to: ‘downloaded_site/tekvortex.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftekvortex.com%2Fservices__trashed%2Fquality-assurance%2F&format=xml’
+
+     0K ..                                                    100% 1.82G=0s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:28:52 (1.82 GB/s) - ‘downloaded_site/tekvortex.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftekvortex.com%2Fservices__trashed%2Fquality-assurance%2F&format=xml’ saved [2954/2954]
+
+--2023-12-22 16:28:52--  https://tekvortex.com/wp-json/wp/v2/pages/2994
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Saving to: ‘downloaded_site/tekvortex.com/wp-json/wp/v2/pages/2994’
+
+     0K ..........                                             98.5M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:28:53 (98.5 MB/s) - ‘downloaded_site/tekvortex.com/wp-json/wp/v2/pages/2994’ saved [10940]
+
+--2023-12-22 16:28:53--  https://tekvortex.com/?p=2994
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://tekvortex.com/services__trashed/it-infrastructure-services/ [following]
+--2023-12-22 16:28:53--  https://tekvortex.com/services__trashed/it-infrastructure-services/
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 41359 (40K) [text/html]
+Saving to: ‘downloaded_site/tekvortex.com/index.html?p=2994.html’
+
+     0K .......... .......... .......... ..........           100% 81.1K=0.5s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:28:54 (81.1 KB/s) - ‘downloaded_site/tekvortex.com/index.html?p=2994.html’ saved [41359/41359]
+
+--2023-12-22 16:28:54--  https://tekvortex.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftekvortex.com%2Fservices__trashed%2Fit-infrastructure-services%2F
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2750 (2.7K) [application/json]
+Saving to: ‘downloaded_site/tekvortex.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftekvortex.com%2Fservices__trashed%2Fit-infrastructure-services%2F’
+
+     0K ..                                                    100%  570M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:28:55 (570 MB/s) - ‘downloaded_site/tekvortex.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftekvortex.com%2Fservices__trashed%2Fit-infrastructure-services%2F’ saved [2750/2750]
+
+--2023-12-22 16:28:55--  https://tekvortex.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftekvortex.com%2Fservices__trashed%2Fit-infrastructure-services%2F&format=xml
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2956 (2.9K) [text/xml]
+Saving to: ‘downloaded_site/tekvortex.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftekvortex.com%2Fservices__trashed%2Fit-infrastructure-services%2F&format=xml’
+
+     0K ..                                                    100%  717M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:28:55 (717 MB/s) - ‘downloaded_site/tekvortex.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftekvortex.com%2Fservices__trashed%2Fit-infrastructure-services%2F&format=xml’ saved [2956/2956]
+
+--2023-12-22 16:28:55--  https://tekvortex.com/wp-json/wp/v2/pages/2996
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/json]
+Saving to: ‘downloaded_site/tekvortex.com/wp-json/wp/v2/pages/2996’
+
+     0K .........                                              87.4M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:28:56 (87.4 MB/s) - ‘downloaded_site/tekvortex.com/wp-json/wp/v2/pages/2996’ saved [10196]
+
+--2023-12-22 16:28:56--  https://tekvortex.com/?p=2996
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://tekvortex.com/services__trashed/salesforce-development/ [following]
+--2023-12-22 16:28:57--  https://tekvortex.com/services__trashed/salesforce-development/
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 40971 (40K) [text/html]
+Saving to: ‘downloaded_site/tekvortex.com/index.html?p=2996.html’
+
+     0K .......... .......... .......... ..........           100% 80.7K=0.5s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:28:57 (80.7 KB/s) - ‘downloaded_site/tekvortex.com/index.html?p=2996.html’ saved [40971/40971]
+
+--2023-12-22 16:28:57--  https://tekvortex.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftekvortex.com%2Fservices__trashed%2Fsalesforce-development%2F
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2540 (2.5K) [application/json]
+Saving to: ‘downloaded_site/tekvortex.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftekvortex.com%2Fservices__trashed%2Fsalesforce-development%2F’
+
+     0K ..                                                    100%  425M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:28:58 (425 MB/s) - ‘downloaded_site/tekvortex.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftekvortex.com%2Fservices__trashed%2Fsalesforce-development%2F’ saved [2540/2540]
+
+--2023-12-22 16:28:58--  https://tekvortex.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Ftekvortex.com%2Fservices__trashed%2Fsalesforce-development%2F&format=xml
+Reusing existing connection to tekvortex.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 2747 (2.7K) [text/xml]
+Saving to: ‘downloaded_site/tekvortex.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftekvortex.com%2Fservices__trashed%2Fsalesforce-development%2F&format=xml’
+
+     0K ..                                                    100%  436M=0s
+
+Last-modified header missing -- time-stamps turned off.
+2023-12-22 16:28:59 (436 MB/s) - ‘downloaded_site/tekvortex.com/wp-json/oembed/1.0/embed?url=https:%2F%2Ftekvortex.com%2Fservices__trashed%2Fsalesforce-development%2F&format=xml’ saved [2747/2747]
+
+FINISHED --2023-12-22 16:28:59--
+Total wall clock time: 2m 12s
+Downloaded: 155 files, 8.4M in 56s (154 KB/s)
+Converting links in downloaded_site/tekvortex.com/case-study/rane/index.html... 57-1
+Converting links in downloaded_site/tekvortex.com/job/back-end-developer/index.html... 51-2
+Converting links in downloaded_site/tekvortex.com/services__trashed/salesforce-development/index.html... 55-1
+Converting links in downloaded_site/tekvortex.com/job/python-developer/index.html... 51-2
+Converting links in downloaded_site/tekvortex.com/index.html?p=3333.html... 57-1
+Converting links in downloaded_site/tekvortex.com/about-us/index.html... 60-1
+Converting links in downloaded_site/tekvortex.com/services__trashed/mobile-application/index.html... 55-1
+Converting links in downloaded_site/tekvortex.com/careers/index.html... 58-1
+Converting links in downloaded_site/tekvortex.com/index.html?p=3304.html... 57-1
+Converting links in downloaded_site/tekvortex.com/index.html?p=16.html... 56-1
+Converting links in downloaded_site/tekvortex.com/services__trashed/it-infrastructure-services/index.html... 55-1
+Converting links in downloaded_site/tekvortex.com/index.html... 108-1
+Converting links in downloaded_site/tekvortex.com/index.html?p=2986.html... 55-1
+Converting links in downloaded_site/tekvortex.com/index.html?p=2991.html... 55-1
+Converting links in downloaded_site/tekvortex.com/services__trashed/application-development/index.html... 55-1
+Converting links in downloaded_site/tekvortex.com/index.html?p=20.html... 58-1
+Converting links in downloaded_site/tekvortex.com/index.html?p=14.html... 60-1
+Converting links in downloaded_site/tekvortex.com/services__trashed/consultation-services/index.html... 55-1
+Converting links in downloaded_site/tekvortex.com/index.html?p=2996.html... 55-1
+Converting links in downloaded_site/tekvortex.com/index.html?p=2984.html... 55-1
+Converting links in downloaded_site/tekvortex.com/contact-us.html... 56-1
+Converting links in downloaded_site/tekvortex.com/services__trashed/quality-assurance/index.html... 55-1
+Converting links in downloaded_site/tekvortex.com/case-study/cloudchomp-case-study/index.html... 57-1
+Converting links in downloaded_site/tekvortex.com/contact.html... 56-1
+Converting links in downloaded_site/tekvortex.com/index.html?p=2989.html... 55-1
+Converting links in downloaded_site/tekvortex.com/index.html?p=2994.html... 55-1
+Converting links in downloaded_site/tekvortex.com/contact-us/index.html... 56-1
+Converting links in downloaded_site/tekvortex.com/wp-content/plugins/wp-job-openings/assets/css/general.min.css?ver=3.4.3.css... 5-0
+Converting links in downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/style.css?ver=1.0.0.css... nothing to do.
+Converting links in downloaded_site/tekvortex.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.8.5.css... nothing to do.
+Converting links in downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/sass/custom/global.css... 6-0
+Converting links in downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/sass/custom/responsive.css... nothing to do.
+Converting links in downloaded_site/tekvortex.com/wp-content/plugins/wp-job-openings/assets/css/style.min.css?ver=3.4.3.css... 1-0
+Converting links in downloaded_site/tekvortex.com/wp-includes/css/dist/block-library/style.min.css?ver=6.4.2.css... nothing to do.
+Converting links in downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/sass/slick/slick.css... nothing to do.
+Converting links in downloaded_site/tekvortex.com/wp-content/themes/tekvortex_new/sass/slick/slick-theme.css... 6-0
+Converted links in 36 files in 0.03 seconds.

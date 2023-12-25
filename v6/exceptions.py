@@ -2,8 +2,7 @@ from functools import wraps
 from typing import Callable
 
 from fastapi import status
-
-from v6.utils.logger import log_exception
+from utils.logger import log_exception
 
 
 class PythonHttpException(Exception):
@@ -36,3 +35,7 @@ def handle_exceptions(func: Callable) -> Callable:
             return response
 
     return wrapper
+
+
+class SomethingWentWrong(Exception):
+    pass
