@@ -3,6 +3,7 @@ import shutil
 import subprocess
 from urllib.parse import urlparse
 
+from exceptions import SomethingWentWrong
 from logger import configure_logging, logger
 from utils.logger import PythonLoggerExtension
 
@@ -36,7 +37,7 @@ class Downloader:
                     subprocess.run(
                         [
                             "wget",
-                            "-v",
+                            # "-v",   #verbose mode
                             "--mirror",
                             "--convert-links",
                             "--adjust-extension",
@@ -57,4 +58,4 @@ class Downloader:
                 print("-------------  download_finished  --------------")
         except Exception as e:
             python_exception.log_exception()
-            raise Exception
+            raise SomethingWentWrong("Download failed")
